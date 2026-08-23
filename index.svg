@@ -1,0 +1,168 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%">
+  <foreignObject width="100%" height="100%">
+    <html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+      <head>
+        <script>/*<![CDATA[*/(function(){
+  var XHTML_NS="http://www.w3.org/1999/xhtml";
+  var root=document.querySelector("foreignObject").firstElementChild;
+  var origCE=document.createElement.bind(document);
+  var origCENS=document.createElementNS.bind(document);
+  Object.defineProperty(document,"head",{get:function(){return root.querySelector("head")},configurable:true});
+  Object.defineProperty(document,"body",{get:function(){return root.querySelector("body")},configurable:true});
+  Object.defineProperty(document,"documentElement",{get:function(){return root},configurable:true});
+  document.createElement=function(t,o){return typeof t==="string"?origCENS(XHTML_NS,t,o):origCE(t,o)};
+  document.createElementNS=function(ns,n,o){return (ns==null||ns===XHTML_NS)?origCENS(XHTML_NS,n,o):origCENS(ns,n,o)};
+  Object.defineProperty(document,"getElementById",{value:function(id){return root.querySelector('[id="'+String(id).replace(/["\\]/g,'\\$&')+'"]')},configurable:true,writable:true});
+  document.getElementsByTagName=function(t){return root.getElementsByTagNameNS(XHTML_NS,t)};
+  document.getElementsByTagNameNS=function(ns,t){return root.getElementsByTagNameNS(ns,t)};
+  document.getElementsByClassName=function(c){return root.getElementsByClassName(c)};
+  var origQS=document.querySelector.bind(document);
+  var origQSA=document.querySelectorAll.bind(document);
+  document.querySelector=function(s){try{return root.querySelector(s)||origQS(s)}catch(e){return origQS(s)}};
+  document.querySelectorAll=function(s){try{var a=root.querySelectorAll(s);return a.length?a:origQSA(s)}catch(e){return origQSA(s)}};
+})();/*]]>*/</script>
+        <style><![CDATA[html,body{margin:0;width:100%;height:100%;overflow:hidden}foreignObject{overflow:visible}]]></style>
+
+    <meta charset="UTF-8" />
+    <script>
+/*<![CDATA[*/
+
+      (function(){var w=window,s={ps:History.prototype.pushState,rs:History.prototype.replaceState};w.__cherriHs=s;var h=history,f=function(){try{Object.defineProperty(h,"pushState",{value:s.ps.bind(h),configurable:!0,writable:!0}),Object.defineProperty(h,"replaceState",{value:s.rs.bind(h),configurable:!0,writable:!0})}catch(e){}};f(),setInterval(f,400)})();
+    
+/*]]>*/
+</script>
+    <script>
+/*<![CDATA[*/
+
+      // postbuild rewrites this assignment to the per-build nonce'd worker
+      // filename (lead "/" for the normal build, relative for the SVG build).
+      window.__SW_FILE__ = "9acidc.js";
+      window.__swRegistration = navigator.serviceWorker
+        ? (function () {
+            var FILE = (window.__SW_FILE__ || "").split("/").pop();
+            var base = function (u) {
+              try {
+                return new URL(u, location.href).pathname.split("/").pop();
+              } catch (e) {
+                return String(u);
+              }
+            };
+            // Every deploy renames the worker script, so a registration left
+            // over from a previous build can never update itself (its script
+            // URL now 404s) and would keep controlling the page forever — on a
+            // CDN nothing tells it to die. Drop any registration whose worker
+            // isn't THIS build's file before registering ours.
+            navigator.serviceWorker
+              .getRegistrations()
+              .then(function (regs) {
+                regs.forEach(function (r) {
+                  var w = r.active || r.waiting || r.installing;
+                  if (w && base(w.scriptURL) !== FILE) r.unregister();
+                });
+              })
+              .catch(function () {});
+            return navigator.serviceWorker
+              .register(window.__SW_FILE__)
+              .then(function (reg) {
+                // If this document loaded WITHOUT the current worker in
+                // control, the proxy sits on a 45s control-timeout before
+                // falling back. That happens on a hard reload, a first visit,
+                // or when a stale worker from a previous deploy still controls
+                // the page while ours installs. Grab control fast: give claim
+                // a short grace window, and if we're still uncontrolled — or
+                // controlled by the WRONG (stale) worker — reload ONCE
+                // (sessionStorage-guarded so we can never loop).
+                function currentControls() {
+                  var c = navigator.serviceWorker.controller;
+                  return !!c && base(c.scriptURL) === FILE;
+                }
+                if (currentControls()) {
+                  sessionStorage.removeItem("__sw_reload");
+                  return reg;
+                }
+                if (sessionStorage.getItem("__sw_reload")) return reg;
+                navigator.serviceWorker.ready.then(function () {
+                  if (currentControls()) return;
+                  var settled = false;
+                  var onCtrl = function () {
+                    if (!currentControls()) return;
+                    settled = true;
+                    navigator.serviceWorker.removeEventListener(
+                      "controllerchange",
+                      onCtrl
+                    );
+                  };
+                  navigator.serviceWorker.addEventListener(
+                    "controllerchange",
+                    onCtrl
+                  );
+                  setTimeout(function () {
+                    navigator.serviceWorker.removeEventListener(
+                      "controllerchange",
+                      onCtrl
+                    );
+                    if (!settled && !currentControls()) {
+                      sessionStorage.setItem("__sw_reload", "1");
+                      location.reload();
+                    }
+                  }, 1200);
+                });
+                return reg;
+              })
+              .catch(function (err) {
+                console.error("[sw] registration failed:", err);
+                return null;
+              });
+          })()
+        : Promise.resolve(null);
+    
+/*]]>*/
+</script>
+
+    <link rel="icon" type="image/svg+xml" href="./favicon.svg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>cherri</title>
+    <script src="nkfl6/3quvyp.js"></script>
+    <script src="76kj3/bb7z2t.js"></script>
+    <script
+      src="https://cdn.jsdelivr.net/gh/luminsdk/script@4269428afb469a5c569c96674aff7613bc0e5a02/lumin.min.js"
+      integrity="sha384-wFZFrwPetKt8OuUnfq86RbcbkjT+uN7Av9Z5kLIjtxfAHobDCo59fgdb0zXafKwR"
+      crossorigin="anonymous"></script>
+    <script async="async" src="https://www.googletagmanager.com/gtag/js?id=G-N7TLL7J3HN"></script>
+    <script>
+/*<![CDATA[*/
+
+      window.dataLayer = window.dataLayer || [];
+      function gtag() {
+        dataLayer.push(arguments);
+      }
+      gtag("js", new Date());
+      gtag("config", "G-N7TLL7J3HN");
+    
+/*]]>*/
+</script>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto+Mono&amp;display=swap" rel="stylesheet" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="crossorigin" />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Radio+Canada+Big:ital,wght@0,400..700;1,400..700&amp;family=Spline+Sans:wght@300..700&amp;family=TikTok+Sans:opsz,wght@12..36,300..900&amp;family=Vend+Sans:ital,wght@0,300..700;1,300..700&amp;display=swap"
+      rel="stylesheet" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.9.0/styles/atom-one-dark.min.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.16.9/katex.min.css" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/markdown-it-texmath/css/texmath.css" />
+    <link rel="stylesheet" crossorigin="crossorigin" href="./assets/index-BsmP5sbV-f6301a59.css" />
+  
+      </head>
+      <body>
+
+    <div id="_nkg60gd"></div>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.9.0/highlight.min.js"></script>
+    <script src="https://unpkg.com/markdown-it@14.1.0/dist/markdown-it.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.16.9/katex.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.16.9/contrib/auto-render.min.js"></script>
+  
+        <script src="./assets/bundle-2x2npn3l.js"></script>
+      </body>
+    </html>
+  </foreignObject>
+</svg>
