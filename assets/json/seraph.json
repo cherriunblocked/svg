@@ -1,0 +1,2507 @@
+[
+  {
+    "name": "Slope",
+    "img": "/img/seraph/slope.jpg",
+    "url": "/seraph/slope/index.html"
+  },
+  {
+    "name": "Subway Surfers",
+    "img": "/img/seraph/subwaysurfers.jpg",
+    "url": "/seraph/subwaysurfers/index.html"
+  },
+  {
+    "name": "Flappy Bird",
+    "img": "/img/seraph/flappy.jpg",
+    "url": "/seraph/flappy/index.html"
+  },
+  {
+    "name": "Papa's Pizzaria",
+    "img": "/img/seraph/papaspizzaria.jpg",
+    "url": "/seraph/papaspizzaria/index.html"
+  },
+  {
+    "name": "Papa's Burgeria",
+    "img": "/img/seraph/papasburgeria.jpg",
+    "url": "/seraph/papasburgeria/index.html"
+  },
+  {
+    "name": "Super Mario 64",
+    "img": "/img/seraph/sm64.jpg",
+    "url": "/seraph/sm64/index.html"
+  },
+  {
+    "name": "Run 3",
+    "img": "/img/seraph/run3.jpg",
+    "url": "/seraph/run3/index.html"
+  },
+  {
+    "name": "Bitlife",
+    "img": "/img/seraph/bitlife.jpg",
+    "url": "/seraph/bitlife/index.html"
+  },
+  {
+    "name": "Crossy Road",
+    "img": "/img/seraph/crossy.jpg",
+    "url": "/seraph/crossy/index.html"
+  },
+  {
+    "name": "Minecraft [v1.5.2]",
+    "img": "/img/seraph/mc.jpg",
+    "url": "/seraph/mc/index.html"
+  },
+  {
+    "name": "Cookie Clicker",
+    "img": "/img/seraph/cookieclicker.jpg",
+    "url": "/seraph/cookieclicker/index.html"
+  },
+  {
+    "name": "Temple Run 2",
+    "img": "/img/seraph/templerun2.jpg",
+    "url": "/seraph/templerun2/index.html"
+  },
+  {
+    "name": "Duck Life 4",
+    "img": "/img/seraph/ducklife4.jpg",
+    "url": "/seraph/ducklife4/index.html"
+  },
+  {
+    "name": "Chrome Dino Game",
+    "img": "/img/seraph/dinogame.jpg",
+    "url": "/seraph/dinogame/index.html"
+  },
+  {
+    "name": "Jetpack Joyride",
+    "img": "/img/seraph/jetpackjoyride.jpg",
+    "url": "/seraph/jetpackjoyride/index.html"
+  },
+  {
+    "name": "Retro Bowl",
+    "img": "/img/seraph/retrobowl.jpg",
+    "url": "/seraph/retrobowl/index.html"
+  },
+  {
+    "name": "Fruit Ninja",
+    "img": "/img/seraph/fruitninja.jpg",
+    "url": "/seraph/fruitninja/index.html"
+  },
+  {
+    "name": "Doodle Jump",
+    "img": "/img/seraph/doodlejump.jpg",
+    "url": "/seraph/doodlejump/index.html"
+  },
+  {
+    "name": "2048",
+    "img": "/img/seraph/2048.jpg",
+    "url": "/seraph/2048/index.html"
+  },
+  {
+    "name": "Tetris",
+    "img": "/img/seraph/tetris.jpg",
+    "url": "/seraph/tetris/index.html"
+  },
+  {
+    "name": "Fancy Pants Adventure",
+    "img": "/img/seraph/fancypantsadventure.jpg",
+    "url": "/seraph/fancypantsadventure/index.html"
+  },
+  {
+    "name": "Happy Wheels",
+    "img": "/img/seraph/happywheels.jpg",
+    "url": "/seraph/happywheels/index.html"
+  },
+  {
+    "name": "Papa's Hotdoggeria",
+    "img": "/img/seraph/papashotdoggeria.jpg",
+    "url": "/seraph/papashotdoggeria/index.html"
+  },
+  {
+    "name": "Paperio2",
+    "img": "/img/seraph/paperio2.jpg",
+    "url": "/seraph/paperio2/index.html"
+  },
+  {
+    "name": "Super Hot",
+    "img": "/img/seraph/superhot.jpg",
+    "url": "/seraph/superhot/index.html"
+  },
+  {
+    "name": "The Binding Of Isaac",
+    "img": "/img/seraph/thebindingofisaac.jpg",
+    "url": "/seraph/thebindingofisaac/index.html"
+  },
+  {
+    "name": "Townscaper",
+    "img": "/img/seraph/townscaper.jpg",
+    "url": "/seraph/townscaper/index.html"
+  },
+  {
+    "name": "Tunnel Rush",
+    "img": "/img/seraph/tunnelrush.jpg",
+    "url": "/seraph/tunnelrush/index.html"
+  },
+  {
+    "name": "Theme Hotel",
+    "img": "/img/seraph/themehotel.jpg",
+    "url": "/seraph/themehotel/index.html"
+  },
+  {
+    "name": "Escaping The Prison",
+    "img": "/img/seraph/escapingtheprison.jpg",
+    "url": "/seraph/escapingtheprison/index.html"
+  },
+  {
+    "name": "Stealing The Diamond",
+    "img": "/img/seraph/stealingthediamond.jpg",
+    "url": "/seraph/stealingthediamond/index.html"
+  },
+  {
+    "name": "Infiltrating The Airship",
+    "img": "/img/seraph/infiltratingtheairship.jpg",
+    "url": "/seraph/infiltratingtheairship/index.html"
+  },
+  {
+    "name": "Fleeing The Complex",
+    "img": "/img/seraph/fleeingthecomplex.jpg",
+    "url": "/seraph/fleeingthecomplex/index.html"
+  },
+  {
+    "name": "The Impossible Quiz",
+    "img": "/img/seraph/theimpossiblequiz.jpg",
+    "url": "/seraph/theimpossiblequiz/index.html"
+  },
+  {
+    "name": "Solitaire",
+    "img": "/img/seraph/solitaire.jpg",
+    "url": "/seraph/solitaire/index.html"
+  },
+  {
+    "name": "Drift Hunters",
+    "img": "/img/seraph/drifthunters.jpg",
+    "url": "/seraph/drifthunters/index.html"
+  },
+  {
+    "name": "Vex 6",
+    "img": "/img/seraph/vex6.jpg",
+    "url": "/seraph/vex6/index.html"
+  },
+  {
+    "name": "Among Us Fangame",
+    "img": "/img/seraph/amongus.jpg",
+    "url": "/seraph/amongus/index.html"
+  },
+  {
+    "name": "Edge Surf",
+    "img": "/img/seraph/surf.jpg",
+    "url": "/seraph/surf/index.html"
+  },
+  {
+    "name": "Motox3m",
+    "img": "/img/seraph/motox3m.jpg",
+    "url": "/seraph/motox3m/index.html"
+  },
+  {
+    "name": "Fnaf 1",
+    "img": "/img/seraph/fnaf.jpg",
+    "url": "/seraph/fnaf/index.html"
+  },
+  {
+    "name": "Fnaf 2",
+    "img": "/img/seraph/fnaf-2.jpg",
+    "url": "/seraph/fnaf-2/index.html"
+  },
+  {
+    "name": "Fnaf 3",
+    "img": "/img/seraph/fnaf-3.jpg",
+    "url": "/seraph/fnaf-3/index.html"
+  },
+  {
+    "name": "Fnaf 4",
+    "img": "/img/seraph/fnaf-4.jpg",
+    "url": "/seraph/fnaf-4/index.html"
+  },
+  {
+    "name": "Riddle School",
+    "img": "/img/seraph/riddleschool.jpg",
+    "url": "/seraph/riddleschool/index.html"
+  },
+  {
+    "name": "Riddle School 2",
+    "img": "/img/seraph/riddleschool.jpg",
+    "url": "/seraph/riddleschool/index.html"
+  },
+  {
+    "name": "Riddle School 3",
+    "img": "/img/seraph/riddleschool.jpg",
+    "url": "/seraph/riddleschool/index.html"
+  },
+  {
+    "name": "Riddle School 4",
+    "img": "/img/seraph/riddleschool.jpg",
+    "url": "/seraph/riddleschool/index.html"
+  },
+  {
+    "name": "Riddle School 5",
+    "img": "/img/seraph/riddleschool.jpg",
+    "url": "/seraph/riddleschool/index.html"
+  },
+  {
+    "name": "Riddle Transfer",
+    "img": "/img/seraph/riddleschool.jpg",
+    "url": "/seraph/riddleschool/index.html"
+  },
+  {
+    "name": "Riddle Transfer 2",
+    "img": "/img/seraph/riddleschool.jpg",
+    "url": "/seraph/riddleschool/index.html"
+  },
+  {
+    "name": "Drift Boss",
+    "img": "/img/seraph/driftboss.jpg",
+    "url": "/seraph/driftboss/index.html"
+  },
+  {
+    "name": "Friday Night Funkin",
+    "img": "/img/seraph/fnf.jpg",
+    "url": "/seraph/fnf/index.html"
+  },
+  {
+    "name": "Pacman",
+    "img": "/img/seraph/pacman.jpg",
+    "url": "/seraph/pacman/index.html"
+  },
+  {
+    "name": "Papa's Pancakeria",
+    "img": "/img/seraph/papaspancakeria.jpg",
+    "url": "/seraph/papaspancakeria/index.html"
+  },
+  {
+    "name": "Rooftop Snipers",
+    "img": "/img/seraph/rooftop.jpg",
+    "url": "/seraph/rooftop/index.html"
+  },
+  {
+    "name": "Baldi's Basics",
+    "img": "/img/seraph/baldisbasics.jpg",
+    "url": "/seraph/baldisbasics/index.html"
+  },
+  {
+    "name": "Bob The Robber 2",
+    "img": "/img/seraph/bobtherobber2.jpg",
+    "url": "/seraph/bobtherobber2/index.html"
+  },
+  {
+    "name": "Minesweeper",
+    "img": "/img/seraph/minesweeper.jpg",
+    "url": "/seraph/minesweeper/index.html"
+  },
+  {
+    "name": "Pokemon Emerald",
+    "img": "/img/seraph/pokemonemerald.jpg",
+    "url": "/seraph/pokemonemerald/index.html"
+  },
+  {
+    "name": "Pokemon Fire Red",
+    "img": "/img/seraph/pokemonfirered.jpg",
+    "url": "/seraph/pokemonfirered/index.html"
+  },
+  {
+    "name": "Super Mario Bros",
+    "img": "/img/seraph/supermariobros.jpg",
+    "url": "/seraph/supermariobros/index.html"
+  },
+  {
+    "name": "Super Mario Kart",
+    "img": "/img/seraph/supermariokart.jpg",
+    "url": "/seraph/supermariokart/index.html"
+  },
+  {
+    "name": "Super Mario World",
+    "img": "/img/seraph/supermarioworld.jpg",
+    "url": "/seraph/supermarioworld/index.html"
+  },
+  {
+    "name": "There Is No Game",
+    "img": "/img/seraph/thereisnogame.jpg",
+    "url": "/seraph/thereisnogame/index.html"
+  },
+  {
+    "name": "World's Hardest Game",
+    "img": "/img/seraph/worldshardestgame.jpg",
+    "url": "/seraph/worldshardestgame/index.html"
+  },
+  {
+    "name": "Castlevania",
+    "img": "/img/seraph/castlevania.jpg",
+    "url": "/seraph/castlevania/index.html"
+  },
+  {
+    "name": "Donkey Kong",
+    "img": "/img/seraph/donkeykong.jpg",
+    "url": "/seraph/donkeykong/index.html"
+  },
+  {
+    "name": "Dr Mario",
+    "img": "/img/seraph/drmario.jpg",
+    "url": "/seraph/drmario/index.html"
+  },
+  {
+    "name": "Metroid",
+    "img": "/img/seraph/metroid.jpg",
+    "url": "/seraph/metroid/index.html"
+  },
+  {
+    "name": "Super Mario Bros 2",
+    "img": "/img/seraph/supermariobros2.jpg",
+    "url": "/seraph/supermariobros2/index.html"
+  },
+  {
+    "name": "Super Mario Bros 3",
+    "img": "/img/seraph/supermariobros3.jpg",
+    "url": "/seraph/supermariobros3/index.html"
+  },
+  {
+    "name": "The Legend Of Zelda",
+    "img": "/img/seraph/thelegendofzelda.jpg",
+    "url": "/seraph/thelegendofzelda/index.html"
+  },
+  {
+    "name": "Warioware",
+    "img": "/img/seraph/warioware.jpg",
+    "url": "/seraph/warioware/index.html"
+  },
+  {
+    "name": "Yoshi's Island",
+    "img": "/img/seraph/yoshisisland.jpg",
+    "url": "/seraph/yoshisisland/index.html"
+  },
+  {
+    "name": "Donkey Kong Land",
+    "img": "/img/seraph/donkeykongland.jpg",
+    "url": "/seraph/donkeykongland/index.html"
+  },
+  {
+    "name": "Kirby's Dream Land",
+    "img": "/img/seraph/kirbysdreamland.jpg",
+    "url": "/seraph/kirbysdreamland/index.html"
+  },
+  {
+    "name": "Super Mario Land",
+    "img": "/img/seraph/supermarioland.jpg",
+    "url": "/seraph/supermarioland/index.html"
+  },
+  {
+    "name": "Doge Miner",
+    "img": "/img/seraph/dogeminer.jpg",
+    "url": "/seraph/dogeminer/index.html"
+  },
+  {
+    "name": "Tanuki Sunset",
+    "img": "/img/seraph/tanukisunset.jpg",
+    "url": "/seraph/tanukisunset/index.html"
+  },
+  {
+    "name": "Aquapark Slides",
+    "img": "/img/seraph/aquaparkslides.jpg",
+    "url": "/seraph/aquaparkslides/index.html"
+  },
+  {
+    "name": "Color Switch",
+    "img": "/img/seraph/colorswitch.jpg",
+    "url": "/seraph/colorswitch/index.html"
+  },
+  {
+    "name": "Papa's Freezeria",
+    "img": "/img/seraph/papasfreezeria.jpg",
+    "url": "/seraph/papasfreezeria/index.html"
+  },
+  {
+    "name": "Btd",
+    "img": "/img/seraph/btd.jpg",
+    "url": "/seraph/btd/index.html"
+  },
+  {
+    "name": "Btd 2",
+    "img": "/img/seraph/btd.jpg",
+    "url": "/seraph/btd/index.html"
+  },
+  {
+    "name": "Btd 3",
+    "img": "/img/seraph/btd.jpg",
+    "url": "/seraph/btd/index.html"
+  },
+  {
+    "name": "Btd 4",
+    "img": "/img/seraph/btd.jpg",
+    "url": "/seraph/btd/index.html"
+  },
+  {
+    "name": "Bomberman",
+    "img": "/img/seraph/bomberman.jpg",
+    "url": "/seraph/bomberman/index.html"
+  },
+  {
+    "name": "Fire Emblem",
+    "img": "/img/seraph/fireemblem.jpg",
+    "url": "/seraph/fireemblem/index.html"
+  },
+  {
+    "name": "Ice Climber",
+    "img": "/img/seraph/iceclimber.jpg",
+    "url": "/seraph/iceclimber/index.html"
+  },
+  {
+    "name": "Mario Kart Super Circuit",
+    "img": "/img/seraph/mariokartsupercircuit.jpg",
+    "url": "/seraph/mariokartsupercircuit/index.html"
+  },
+  {
+    "name": "Pokemon Leaf Green",
+    "img": "/img/seraph/pokemonleafgreen.jpg",
+    "url": "/seraph/pokemonleafgreen/index.html"
+  },
+  {
+    "name": "Pokemon Ruby",
+    "img": "/img/seraph/pokemonruby.jpg",
+    "url": "/seraph/pokemonruby/index.html"
+  },
+  {
+    "name": "Pokemon Sapphire",
+    "img": "/img/seraph/pokemonsapphire.jpg",
+    "url": "/seraph/pokemonsapphire/index.html"
+  },
+  {
+    "name": "Superstar Saga",
+    "img": "/img/seraph/superstarsaga.jpg",
+    "url": "/seraph/superstarsaga/index.html"
+  },
+  {
+    "name": "Adofai",
+    "img": "/img/seraph/adofai.jpg",
+    "url": "/seraph/adofai/index.html"
+  },
+  {
+    "name": "Super Smash Flash",
+    "img": "/img/seraph/supersmashflash.jpg",
+    "url": "/seraph/supersmashflash/index.html"
+  },
+  {
+    "name": "Super Meat Boy",
+    "img": "/img/seraph/supermeatboy.jpg",
+    "url": "/seraph/supermeatboy/index.html"
+  },
+  {
+    "name": "Stickman Hook",
+    "img": "/img/seraph/stickmanhook.jpg",
+    "url": "/seraph/stickmanhook/index.html"
+  },
+  {
+    "name": "Defend The Tank",
+    "img": "/img/seraph/defendthetank.jpg",
+    "url": "/seraph/defendthetank/index.html"
+  },
+  {
+    "name": "Sort The Court",
+    "img": "/img/seraph/sortthecourt.jpg",
+    "url": "/seraph/sortthecourt/index.html"
+  },
+  {
+    "name": "This Is The Only Level",
+    "img": "/img/seraph/thisistheonlylevel.jpg",
+    "url": "/seraph/thisistheonlylevel/index.html"
+  },
+  {
+    "name": "Run",
+    "img": "/img/seraph/run.jpg",
+    "url": "/seraph/run/index.html"
+  },
+  {
+    "name": "Run 2",
+    "img": "/img/seraph/run2.jpg",
+    "url": "/seraph/run2/index.html"
+  },
+  {
+    "name": "Battleships",
+    "img": "/img/seraph/battleships.jpg",
+    "url": "/seraph/battleships/index.html"
+  },
+  {
+    "name": "Breaking The Bank",
+    "img": "/img/seraph/breakingthebank.jpg",
+    "url": "/seraph/breakingthebank/index.html"
+  },
+  {
+    "name": "Duck Life",
+    "img": "/img/seraph/ducklife.jpg",
+    "url": "/seraph/ducklife/index.html"
+  },
+  {
+    "name": "Duck Life 2",
+    "img": "/img/seraph/ducklife2.jpg",
+    "url": "/seraph/ducklife2/index.html"
+  },
+  {
+    "name": "Duck Life 3",
+    "img": "/img/seraph/ducklife3.jpg",
+    "url": "/seraph/ducklife3/index.html"
+  },
+  {
+    "name": "Line Rider",
+    "img": "/img/seraph/linerider.jpg",
+    "url": "/seraph/linerider/index.html"
+  },
+  {
+    "name": "Mario Combat",
+    "img": "/img/seraph/mariocombat.jpg",
+    "url": "/seraph/mariocombat/index.html"
+  },
+  {
+    "name": "Raft Wars 2",
+    "img": "/img/seraph/raftwars2.jpg",
+    "url": "/seraph/raftwars2/index.html"
+  },
+  {
+    "name": "Space Invaders",
+    "img": "/img/seraph/spaceinvaders.jpg",
+    "url": "/seraph/spaceinvaders/index.html"
+  },
+  {
+    "name": "Animal Crossing",
+    "img": "/img/seraph/animalcrossingwildworld.jpg",
+    "url": "/seraph/animalcrossingwildworld/index.html"
+  },
+  {
+    "name": "Mario Kart Ds",
+    "img": "/img/seraph/mariokartds.jpg",
+    "url": "/seraph/mariokartds/index.html"
+  },
+  {
+    "name": "New Super Mario Bros",
+    "img": "/img/seraph/newsupermariobros.jpg",
+    "url": "/seraph/newsupermariobros/index.html"
+  },
+  {
+    "name": "Nintendogs",
+    "img": "/img/seraph/nintendogs.jpg",
+    "url": "/seraph/nintendogs/index.html"
+  },
+  {
+    "name": "Super Mario 64 Ds",
+    "img": "/img/seraph/sm64ds.jpg",
+    "url": "/seraph/sm64ds/index.html"
+  },
+  {
+    "name": "Gun Mayhem",
+    "img": "/img/seraph/gunmayhem.jpg",
+    "url": "/seraph/gunmayhem/index.html"
+  },
+  {
+    "name": "Learn To Fly",
+    "img": "/img/seraph/learntofly.jpg",
+    "url": "/seraph/learntofly/index.html"
+  },
+  {
+    "name": "Rooftop Snipers 2",
+    "img": "/img/seraph/rooftop2.jpg",
+    "url": "/seraph/rooftop2/index.html"
+  },
+  {
+    "name": "Fireboy And Watergirl",
+    "img": "/img/seraph/fireboywatergirl.jpg",
+    "url": "/seraph/fireboywatergirl/index.html"
+  },
+  {
+    "name": "Chibi Knight",
+    "img": "/img/seraph/chibiknight.jpg",
+    "url": "/seraph/chibiknight/index.html"
+  },
+  {
+    "name": "Cluster Rush",
+    "img": "/img/seraph/clusterrush.jpg",
+    "url": "/seraph/clusterrush/index.html"
+  },
+  {
+    "name": "Doodle Defender",
+    "img": "/img/seraph/doodledefender.jpg",
+    "url": "/seraph/doodledefender/index.html"
+  },
+  {
+    "name": "Learn To Fly 2",
+    "img": "/img/seraph/learntofly2.jpg",
+    "url": "/seraph/learntofly2/index.html"
+  },
+  {
+    "name": "Papa's Scooperia",
+    "img": "/img/seraph/papasscooperia.jpg",
+    "url": "/seraph/papasscooperia/index.html"
+  },
+  {
+    "name": "Papa's Sushiria",
+    "img": "/img/seraph/papassushiria.jpg",
+    "url": "/seraph/papassushiria/index.html"
+  },
+  {
+    "name": "Papa's Wingeria",
+    "img": "/img/seraph/papaswingeria.jpg",
+    "url": "/seraph/papaswingeria/index.html"
+  },
+  {
+    "name": "Raft Wars",
+    "img": "/img/seraph/raftwars.jpg",
+    "url": "/seraph/raftwars/index.html"
+  },
+  {
+    "name": "Unfair Mario",
+    "img": "/img/seraph/unfairmario.jpg",
+    "url": "/seraph/unfairmario/index.html"
+  },
+  {
+    "name": "Boxing Physics 2",
+    "img": "/img/seraph/boxingphysics2.jpg",
+    "url": "/seraph/boxingphysics2/index.html"
+  },
+  {
+    "name": "Ace Attorney",
+    "img": "/img/seraph/aceattorney.jpg",
+    "url": "/seraph/aceattorney/index.html"
+  },
+  {
+    "name": "Metal Gear Solid",
+    "img": "/img/seraph/metalgearsolid.jpg",
+    "url": "/seraph/metalgearsolid/index.html"
+  },
+  {
+    "name": "Mother 3",
+    "img": "/img/seraph/mother3.jpg",
+    "url": "/seraph/mother3/index.html"
+  },
+  {
+    "name": "Pokemon Diamond",
+    "img": "/img/seraph/pokemondiamond.jpg",
+    "url": "/seraph/pokemondiamond/index.html"
+  },
+  {
+    "name": "Pokemon Platinum",
+    "img": "/img/seraph/pokemonplatinum.jpg",
+    "url": "/seraph/pokemonplatinum/index.html"
+  },
+  {
+    "name": "Pokemon Soulsilver",
+    "img": "/img/seraph/pokemonsoulsilver.jpg",
+    "url": "/seraph/pokemonsoulsilver/index.html"
+  },
+  {
+    "name": "Advance Wars",
+    "img": "/img/seraph/advancewars.jpg",
+    "url": "/seraph/advancewars/index.html"
+  },
+  {
+    "name": "Banjo Pilot",
+    "img": "/img/seraph/banjopilot.jpg",
+    "url": "/seraph/banjopilot/index.html"
+  },
+  {
+    "name": "Super Monkey Ball Jr",
+    "img": "/img/seraph/supermonkeyballjr.jpg",
+    "url": "/seraph/supermonkeyballjr/index.html"
+  },
+  {
+    "name": "The Impossible Quiz 2",
+    "img": "/img/seraph/theimpossiblequiz2.jpg",
+    "url": "/seraph/theimpossiblequiz2/index.html"
+  },
+  {
+    "name": "Papa's Donuteria",
+    "img": "/img/seraph/papasdonuteria.jpg",
+    "url": "/seraph/papasdonuteria/index.html"
+  },
+  {
+    "name": "Fancy Pants Adventure 2",
+    "img": "/img/seraph/fancypantsadventure2.jpg",
+    "url": "/seraph/fancypantsadventure2/index.html"
+  },
+  {
+    "name": "Tiny Fishing",
+    "img": "/img/seraph/tinyfishing.jpg",
+    "url": "/seraph/tinyfishing/index.html"
+  },
+  {
+    "name": "Big Red Button",
+    "img": "/img/seraph/bigredbutton.jpg",
+    "url": "/seraph/bigredbutton/index.html"
+  },
+  {
+    "name": "Achievement Unlocked",
+    "img": "/img/seraph/achievementunlocked.jpg",
+    "url": "/seraph/achievementunlocked/index.html"
+  },
+  {
+    "name": "Kirby Mass Attack",
+    "img": "/img/seraph/kirbymassattack.jpg",
+    "url": "/seraph/kirbymassattack/index.html"
+  },
+  {
+    "name": "Sonic Advance",
+    "img": "/img/seraph/sonicadvance.jpg",
+    "url": "/seraph/sonicadvance/index.html"
+  },
+  {
+    "name": "Worms World Party",
+    "img": "/img/seraph/wormsworldparty.jpg",
+    "url": "/seraph/wormsworldparty/index.html"
+  },
+  {
+    "name": "Bad Ice Cream",
+    "img": "/img/seraph/badicecream.jpg",
+    "url": "/seraph/badicecream/index.html"
+  },
+  {
+    "name": "Bad Ice Cream 2",
+    "img": "/img/seraph/badicecream2.jpg",
+    "url": "/seraph/badicecream2/index.html"
+  },
+  {
+    "name": "Bad Ice Cream 3",
+    "img": "/img/seraph/badicecream3.jpg",
+    "url": "/seraph/badicecream3/index.html"
+  },
+  {
+    "name": "Adventure Capitalist",
+    "img": "/img/seraph/adventurecapitalist.jpg",
+    "url": "/seraph/adventurecapitalist/index.html"
+  },
+  {
+    "name": "Monkey Mart",
+    "img": "/img/seraph/monkeymart.jpg",
+    "url": "/seraph/monkeymart/index.html"
+  },
+  {
+    "name": "Doom 64",
+    "img": "/img/seraph/doom64.jpg",
+    "url": "/seraph/doom64/index.html"
+  },
+  {
+    "name": "Banjo Kazooie",
+    "img": "/img/seraph/banjokazooie.jpg",
+    "url": "/seraph/banjokazooie/index.html"
+  },
+  {
+    "name": "Donkey Kong 64",
+    "img": "/img/seraph/donkeykong64.jpg",
+    "url": "/seraph/donkeykong64/index.html"
+  },
+  {
+    "name": "F-Zero X",
+    "img": "/img/seraph/fzerox.jpg",
+    "url": "/seraph/fzerox/index.html"
+  },
+  {
+    "name": "Kirby 64",
+    "img": "/img/seraph/kirby64.jpg",
+    "url": "/seraph/kirby64/index.html"
+  },
+  {
+    "name": "Mario Kart 64",
+    "img": "/img/seraph/mariokart64.jpg",
+    "url": "/seraph/mariokart64/index.html"
+  },
+  {
+    "name": "Mario Party",
+    "img": "/img/seraph/marioparty.jpg",
+    "url": "/seraph/marioparty/index.html"
+  },
+  {
+    "name": "Mario Party 2",
+    "img": "/img/seraph/marioparty2.jpg",
+    "url": "/seraph/marioparty2/index.html"
+  },
+  {
+    "name": "Ocarina Of Time",
+    "img": "/img/seraph/ocarinaoftime.jpg",
+    "url": "/seraph/ocarinaoftime/index.html"
+  },
+  {
+    "name": "Star Fox 64",
+    "img": "/img/seraph/starfox64.jpg",
+    "url": "/seraph/starfox64/index.html"
+  },
+  {
+    "name": "Super Smash Bros",
+    "img": "/img/seraph/supersmashbros.jpg",
+    "url": "/seraph/supersmashbros/index.html"
+  },
+  {
+    "name": "Street Fighter 2",
+    "img": "/img/seraph/streetfighter2.jpg",
+    "url": "/seraph/streetfighter2/index.html"
+  },
+  {
+    "name": "Getaway Shootout",
+    "img": "/img/seraph/getawayshootout.jpg",
+    "url": "/seraph/getawayshootout/index.html"
+  },
+  {
+    "name": "Rabbit Samurai",
+    "img": "/img/seraph/rabbitsamurai.jpg",
+    "url": "/seraph/rabbitsamurai/index.html"
+  },
+  {
+    "name": "Mario Party Ds",
+    "img": "/img/seraph/mariopartyds.jpg",
+    "url": "/seraph/mariopartyds/index.html"
+  },
+  {
+    "name": "Professor Layton",
+    "img": "/img/seraph/professorlayton.jpg",
+    "url": "/seraph/professorlayton/index.html"
+  },
+  {
+    "name": "Scribblenauts",
+    "img": "/img/seraph/scribblenauts.jpg",
+    "url": "/seraph/scribblenauts/index.html"
+  },
+  {
+    "name": "Advance Wars 2",
+    "img": "/img/seraph/advancewars2.jpg",
+    "url": "/seraph/advancewars2/index.html"
+  },
+  {
+    "name": "Harvest Moon",
+    "img": "/img/seraph/harvestmoon.jpg",
+    "url": "/seraph/harvestmoon/index.html"
+  },
+  {
+    "name": "Mario Tennis",
+    "img": "/img/seraph/mariotennis.jpg",
+    "url": "/seraph/mariotennis/index.html"
+  },
+  {
+    "name": "Mega Man Zero",
+    "img": "/img/seraph/megamanzero.jpg",
+    "url": "/seraph/megamanzero/index.html"
+  },
+  {
+    "name": "Mystery Dungeon",
+    "img": "/img/seraph/pokemonmysterydungeon.jpg",
+    "url": "/seraph/pokemonmysterydungeon/index.html"
+  },
+  {
+    "name": "Pokemon Unbound",
+    "img": "/img/seraph/pokemonunbound.jpg",
+    "url": "/seraph/pokemonunbound/index.html"
+  },
+  {
+    "name": "Papa's Cheeseria",
+    "img": "/img/seraph/papascheeseria.jpg",
+    "url": "/seraph/papascheeseria/index.html"
+  },
+  {
+    "name": "Papa's Cupcakeria",
+    "img": "/img/seraph/papascupcakeria.jpg",
+    "url": "/seraph/papascupcakeria/index.html"
+  },
+  {
+    "name": "Papa's Bakeria",
+    "img": "/img/seraph/papasbakeria.jpg",
+    "url": "/seraph/papasbakeria/index.html"
+  },
+  {
+    "name": "Papa's Pastaria",
+    "img": "/img/seraph/papaspastaria.jpg",
+    "url": "/seraph/papaspastaria/index.html"
+  },
+  {
+    "name": "Gun Mayhem 2",
+    "img": "/img/seraph/gunmayhem2.jpg",
+    "url": "/seraph/gunmayhem2/index.html"
+  },
+  {
+    "name": "Gun Mayhem Redux",
+    "img": "/img/seraph/gunmayhemredux.jpg",
+    "url": "/seraph/gunmayhemredux/index.html"
+  },
+  {
+    "name": "Achievement Unlocked 2",
+    "img": "/img/seraph/achievementunlocked2.jpg",
+    "url": "/seraph/achievementunlocked2/index.html"
+  },
+  {
+    "name": "Achievement Unlocked 3",
+    "img": "/img/seraph/achievementunlocked3.jpg",
+    "url": "/seraph/achievementunlocked3/index.html"
+  },
+  {
+    "name": "Factory Balls",
+    "img": "/img/seraph/factoryballs.jpg",
+    "url": "/seraph/factoryballs/index.html"
+  },
+  {
+    "name": "Skywire",
+    "img": "/img/seraph/skywire.jpg",
+    "url": "/seraph/skywire/index.html"
+  },
+  {
+    "name": "Super Mario Flash",
+    "img": "/img/seraph/supermarioflash.jpg",
+    "url": "/seraph/supermarioflash/index.html"
+  },
+  {
+    "name": "Golden Sun",
+    "img": "/img/seraph/goldensun.jpg",
+    "url": "/seraph/goldensun/index.html"
+  },
+  {
+    "name": "Metroid Fusion",
+    "img": "/img/seraph/metroidfusion.jpg",
+    "url": "/seraph/metroidfusion/index.html"
+  },
+  {
+    "name": "Dbz: Supersonic Warriors",
+    "img": "/img/seraph/dbzsupersonicwarriors.jpg",
+    "url": "/seraph/dbzsupersonicwarriors/index.html"
+  },
+  {
+    "name": "Wario Land 4",
+    "img": "/img/seraph/warioland4.jpg",
+    "url": "/seraph/warioland4/index.html"
+  },
+  {
+    "name": "Duck Life 5",
+    "img": "/img/seraph/ducklife5.jpg",
+    "url": "/seraph/ducklife5/index.html"
+  },
+  {
+    "name": "Learn To Fly 3",
+    "img": "/img/seraph/learntofly3.jpg",
+    "url": "/seraph/learntofly3/index.html"
+  },
+  {
+    "name": "Bloxors",
+    "img": "/img/seraph/bloxors.jpg",
+    "url": "/seraph/bloxors/index.html"
+  },
+  {
+    "name": "Electric Man 2",
+    "img": "/img/seraph/electricman2.jpg",
+    "url": "/seraph/electricman2/index.html"
+  },
+  {
+    "name": "Portal",
+    "img": "/img/seraph/portal.jpg",
+    "url": "/seraph/portal/index.html"
+  },
+  {
+    "name": "Portal 2",
+    "img": "/img/seraph/portal2.jpg",
+    "url": "/seraph/portal2/index.html"
+  },
+  {
+    "name": "Skywire 2",
+    "img": "/img/seraph/skywire2.jpg",
+    "url": "/seraph/skywire2/index.html"
+  },
+  {
+    "name": "Duck Life 6",
+    "img": "/img/seraph/ducklife6.jpg",
+    "url": "/seraph/ducklife6/index.html"
+  },
+  {
+    "name": "Boxing Random",
+    "img": "/img/seraph/boxingrandom.jpg",
+    "url": "/seraph/boxingrandom/index.html"
+  },
+  {
+    "name": "Cell Machine",
+    "img": "/img/seraph/cellmachine.jpg",
+    "url": "/seraph/cellmachine/index.html"
+  },
+  {
+    "name": "Stickman Boost",
+    "img": "/img/seraph/stickmanboost.jpg",
+    "url": "/seraph/stickmanboost/index.html"
+  },
+  {
+    "name": "Vex 3",
+    "img": "/img/seraph/vex3.jpg",
+    "url": "/seraph/vex3/index.html"
+  },
+  {
+    "name": "Vex 4",
+    "img": "/img/seraph/vex4.jpg",
+    "url": "/seraph/vex4/index.html"
+  },
+  {
+    "name": "Skibidi Toilet 1v100",
+    "img": "/img/seraph/skibidi1v100.jpg",
+    "url": "/seraph/skibidi1v100/index.html"
+  },
+  {
+    "name": "Golden Eye 007",
+    "img": "/img/seraph/goldeneye007.jpg",
+    "url": "/seraph/goldeneye007/index.html"
+  },
+  {
+    "name": "Majora's Mask",
+    "img": "/img/seraph/majorasmask.jpg",
+    "url": "/seraph/majorasmask/index.html"
+  },
+  {
+    "name": "Paper Mario",
+    "img": "/img/seraph/papermario.jpg",
+    "url": "/seraph/papermario/index.html"
+  },
+  {
+    "name": "Mario Golf",
+    "img": "/img/seraph/mariogolf.jpg",
+    "url": "/seraph/mariogolf/index.html"
+  },
+  {
+    "name": "Pokemon Stadium",
+    "img": "/img/seraph/pokemonstadium.jpg",
+    "url": "/seraph/pokemonstadium/index.html"
+  },
+  {
+    "name": "Excitebike 64",
+    "img": "/img/seraph/excitebike64.jpg",
+    "url": "/seraph/excitebike64/index.html"
+  },
+  {
+    "name": "Pokemon Snap",
+    "img": "/img/seraph/pokemonsnap.jpg",
+    "url": "/seraph/pokemonsnap/index.html"
+  },
+  {
+    "name": "Mario Party 3",
+    "img": "/img/seraph/marioparty3.jpg",
+    "url": "/seraph/marioparty3/index.html"
+  },
+  {
+    "name": "Sonic Advance 2",
+    "img": "/img/seraph/sonicadvance2.jpg",
+    "url": "/seraph/sonicadvance2/index.html"
+  },
+  {
+    "name": "Bowser's Inside Story",
+    "img": "/img/seraph/bowsersinsidestory.jpg",
+    "url": "/seraph/bowsersinsidestory/index.html"
+  },
+  {
+    "name": "Spirit Tracks",
+    "img": "/img/seraph/spirittracks.jpg",
+    "url": "/seraph/spirittracks/index.html"
+  },
+  {
+    "name": "The Sims 2",
+    "img": "/img/seraph/thesims2.jpg",
+    "url": "/seraph/thesims2/index.html"
+  },
+  {
+    "name": "Tetris Ds",
+    "img": "/img/seraph/tetrisds.jpg",
+    "url": "/seraph/tetrisds/index.html"
+  },
+  {
+    "name": "Sonic Rush",
+    "img": "/img/seraph/sonicrush.jpg",
+    "url": "/seraph/sonicrush/index.html"
+  },
+  {
+    "name": "The Sims 3",
+    "img": "/img/seraph/thesims3.jpg",
+    "url": "/seraph/thesims3/index.html"
+  },
+  {
+    "name": "Super Princess Peach",
+    "img": "/img/seraph/superprincesspeach.jpg",
+    "url": "/seraph/superprincesspeach/index.html"
+  },
+  {
+    "name": "Lego Batman",
+    "img": "/img/seraph/legobatman.jpg",
+    "url": "/seraph/legobatman/index.html"
+  },
+  {
+    "name": "Doom 2",
+    "img": "/img/seraph/doom2.jpg",
+    "url": "/seraph/doom2/index.html"
+  },
+  {
+    "name": "Duke Nukem Advance",
+    "img": "/img/seraph/dukenukemadvance.jpg",
+    "url": "/seraph/dukenukemadvance/index.html"
+  },
+  {
+    "name": "Mario Party Advance",
+    "img": "/img/seraph/mariopartyadvance.jpg",
+    "url": "/seraph/mariopartyadvance/index.html"
+  },
+  {
+    "name": "Mario Pinball Land",
+    "img": "/img/seraph/mariopinballland.jpg",
+    "url": "/seraph/mariopinballland/index.html"
+  },
+  {
+    "name": "Pacman World",
+    "img": "/img/seraph/pacmanworld.jpg",
+    "url": "/seraph/pacmanworld/index.html"
+  },
+  {
+    "name": "Rayman 3",
+    "img": "/img/seraph/rayman3.jpg",
+    "url": "/seraph/rayman3/index.html"
+  },
+  {
+    "name": "Shrek 2",
+    "img": "/img/seraph/shrek2.jpg",
+    "url": "/seraph/shrek2/index.html"
+  },
+  {
+    "name": "Simcity 2000",
+    "img": "/img/seraph/simcity.jpg",
+    "url": "/seraph/simcity/index.html"
+  },
+  {
+    "name": "Simpsons Road Rage",
+    "img": "/img/seraph/simpsonsroadrage.jpg",
+    "url": "/seraph/simpsonsroadrage/index.html"
+  },
+  {
+    "name": "Diddy Kong Racing",
+    "img": "/img/seraph/diddykongracing.jpg",
+    "url": "/seraph/diddykongracing/index.html"
+  },
+  {
+    "name": "Wave Race 64",
+    "img": "/img/seraph/waverace64.jpg",
+    "url": "/seraph/waverace64/index.html"
+  },
+  {
+    "name": "Quest 64",
+    "img": "/img/seraph/quest64.jpg",
+    "url": "/seraph/quest64/index.html"
+  },
+  {
+    "name": "Gex 64",
+    "img": "/img/seraph/gex64.jpg",
+    "url": "/seraph/gex64/index.html"
+  },
+  {
+    "name": "Duke Nukem 64",
+    "img": "/img/seraph/dukenukem64.jpg",
+    "url": "/seraph/dukenukem64/index.html"
+  },
+  {
+    "name": "Mortal Kombat 4",
+    "img": "/img/seraph/mortalkombat4.jpg",
+    "url": "/seraph/mortalkombat4/index.html"
+  },
+  {
+    "name": "Bad Piggies",
+    "img": "/img/seraph/badpiggies.jpg",
+    "url": "/seraph/badpiggies/index.html"
+  },
+  {
+    "name": "Super Mario Flash 2",
+    "img": "/img/seraph/supermarioflash2.jpg",
+    "url": "/seraph/supermarioflash2/index.html"
+  },
+  {
+    "name": "Swords And Sandals",
+    "img": "/img/seraph/swordsandsandals.jpg",
+    "url": "/seraph/swordsandsandals/index.html"
+  },
+  {
+    "name": "Swords And Sandals 2",
+    "img": "/img/seraph/swordsandsandals2.jpg",
+    "url": "/seraph/swordsandsandals2/index.html"
+  },
+  {
+    "name": "Wordle",
+    "img": "/img/seraph/wordle.jpg",
+    "url": "/seraph/wordle/index.html"
+  },
+  {
+    "name": "Vex",
+    "img": "/img/seraph/vex.jpg",
+    "url": "/seraph/vex/index.html"
+  },
+  {
+    "name": "Vex 2",
+    "img": "/img/seraph/vex2.jpg",
+    "url": "/seraph/vex2/index.html"
+  },
+  {
+    "name": "Vex 5",
+    "img": "/img/seraph/vex5.jpg",
+    "url": "/seraph/vex5/index.html"
+  },
+  {
+    "name": "Vex 7",
+    "img": "/img/seraph/vex7.jpg",
+    "url": "/seraph/vex7/index.html"
+  },
+  {
+    "name": "Stack",
+    "img": "/img/seraph/stack.jpg",
+    "url": "/seraph/stack/index.html"
+  },
+  {
+    "name": "Skibidi Toilet Attack",
+    "img": "/img/seraph/skibiditoiletattack.jpg",
+    "url": "/seraph/skibiditoiletattack/index.html"
+  },
+  {
+    "name": "Motox3m Pool",
+    "img": "/img/seraph/motox3mpool.jpg",
+    "url": "/seraph/motox3mpool/index.html"
+  },
+  {
+    "name": "Offline Paradise",
+    "img": "/img/seraph/offlineparadise.jpg",
+    "url": "/seraph/offlineparadise/index.html"
+  },
+  {
+    "name": "Link To The Past",
+    "img": "/img/seraph/linktothepast.jpg",
+    "url": "/seraph/linktothepast/index.html"
+  },
+  {
+    "name": "Donkey Kong Country",
+    "img": "/img/seraph/donkeykongcountry.jpg",
+    "url": "/seraph/donkeykongcountry/index.html"
+  },
+  {
+    "name": "Donkey Kong Country 2",
+    "img": "/img/seraph/donkeykongcountry2.jpg",
+    "url": "/seraph/donkeykongcountry2/index.html"
+  },
+  {
+    "name": "Super Bomberman",
+    "img": "/img/seraph/superbomberman.jpg",
+    "url": "/seraph/superbomberman/index.html"
+  },
+  {
+    "name": "Mario Paint",
+    "img": "/img/seraph/mariopaint.jpg",
+    "url": "/seraph/mariopaint/index.html"
+  },
+  {
+    "name": "Mega Man X",
+    "img": "/img/seraph/megamanx.jpg",
+    "url": "/seraph/megamanx/index.html"
+  },
+  {
+    "name": "Super Mario Rpg",
+    "img": "/img/seraph/supermariorpg.jpg",
+    "url": "/seraph/supermariorpg/index.html"
+  },
+  {
+    "name": "Super Tennis",
+    "img": "/img/seraph/supertennis.jpg",
+    "url": "/seraph/supertennis/index.html"
+  },
+  {
+    "name": "Wario's Woods",
+    "img": "/img/seraph/warioswoods.jpg",
+    "url": "/seraph/warioswoods/index.html"
+  },
+  {
+    "name": "Worlds Hardest Game 2",
+    "img": "/img/seraph/worldshardestgame2.jpg",
+    "url": "/seraph/worldshardestgame2/index.html"
+  },
+  {
+    "name": "Bubble Tanks 2",
+    "img": "/img/seraph/bubbletanks2.jpg",
+    "url": "/seraph/bubbletanks2/index.html"
+  },
+  {
+    "name": "Choose Your Weapon",
+    "img": "/img/seraph/chooseyourweapon.jpg",
+    "url": "/seraph/chooseyourweapon/index.html"
+  },
+  {
+    "name": "Choose Your Weapon 2",
+    "img": "/img/seraph/chooseyourweapon2.jpg",
+    "url": "/seraph/chooseyourweapon2/index.html"
+  },
+  {
+    "name": "Choose Your Weapon 3",
+    "img": "/img/seraph/chooseyourweapon3.jpg",
+    "url": "/seraph/chooseyourweapon3/index.html"
+  },
+  {
+    "name": "Connect 4",
+    "img": "/img/seraph/connect4.jpg",
+    "url": "/seraph/connect4/index.html"
+  },
+  {
+    "name": "Electric Box",
+    "img": "/img/seraph/electricbox.jpg",
+    "url": "/seraph/electricbox/index.html"
+  },
+  {
+    "name": "Mc Tower Defence 2",
+    "img": "/img/seraph/mctowerdefence2.jpg",
+    "url": "/seraph/mctowerdefence2/index.html"
+  },
+  {
+    "name": "Cars 2",
+    "img": "/img/seraph/cars2.jpg",
+    "url": "/seraph/cars2/index.html"
+  },
+  {
+    "name": "Cooking Mama",
+    "img": "/img/seraph/cookingmama.jpg",
+    "url": "/seraph/cookingmama/index.html"
+  },
+  {
+    "name": "Adventure Time",
+    "img": "/img/seraph/adventuretime.jpg",
+    "url": "/seraph/adventuretime/index.html"
+  },
+  {
+    "name": "Garfield Gets Real",
+    "img": "/img/seraph/garfieldgetsreal.jpg",
+    "url": "/seraph/garfieldgetsreal/index.html"
+  },
+  {
+    "name": "Warioware Touched",
+    "img": "/img/seraph/wariowaretouched.jpg",
+    "url": "/seraph/wariowaretouched/index.html"
+  },
+  {
+    "name": "Kirby Power Paintbrush",
+    "img": "/img/seraph/kirbypowerpaintbrush.jpg",
+    "url": "/seraph/kirbypowerpaintbrush/index.html"
+  },
+  {
+    "name": "Sonic And Knuckles",
+    "img": "/img/seraph/sonicandknuckles.jpg",
+    "url": "/seraph/sonicandknuckles/index.html"
+  },
+  {
+    "name": "Altered Beast",
+    "img": "/img/seraph/alteredbeast.jpg",
+    "url": "/seraph/alteredbeast/index.html"
+  },
+  {
+    "name": "Sonic Spinball",
+    "img": "/img/seraph/sonicspinball.jpg",
+    "url": "/seraph/sonicspinball/index.html"
+  },
+  {
+    "name": "Sonic The Hedgehog 3",
+    "img": "/img/seraph/sonicthehedgehog3.jpg",
+    "url": "/seraph/sonicthehedgehog3/index.html"
+  },
+  {
+    "name": "Streets Of Rage",
+    "img": "/img/seraph/streetsofrage.jpg",
+    "url": "/seraph/streetsofrage/index.html"
+  },
+  {
+    "name": "Golden Axe",
+    "img": "/img/seraph/goldenaxe.jpg",
+    "url": "/seraph/goldenaxe/index.html"
+  },
+  {
+    "name": "Kirby Amazing Mirror",
+    "img": "/img/seraph/kirbyamazingmirror.jpg",
+    "url": "/seraph/kirbyamazingmirror/index.html"
+  },
+  {
+    "name": "Champion Island",
+    "img": "/img/seraph/championisland.jpg",
+    "url": "/seraph/championisland/index.html"
+  },
+  {
+    "name": "Super Mario Construct",
+    "img": "/img/seraph/supermarioconstruct.jpg",
+    "url": "/seraph/supermarioconstruct/index.html"
+  },
+  {
+    "name": "Clicker Heroes",
+    "img": "/img/seraph/clickerheroes.jpg",
+    "url": "/seraph/clickerheroes/index.html"
+  },
+  {
+    "name": "Stair Race 3d",
+    "img": "/img/seraph/stairrace3d.jpg",
+    "url": "/seraph/stairrace3d/index.html"
+  },
+  {
+    "name": "Slope 2",
+    "img": "/img/seraph/slope2.jpg",
+    "url": "/seraph/slope2/index.html"
+  },
+  {
+    "name": "Paper Io 3d",
+    "img": "/img/seraph/paperio3d.jpg",
+    "url": "/seraph/paperio3d/index.html"
+  },
+  {
+    "name": "Motox3m Spooky",
+    "img": "/img/seraph/motox3mspooky.jpg",
+    "url": "/seraph/motox3mspooky/index.html"
+  },
+  {
+    "name": "Motox3m Winter",
+    "img": "/img/seraph/motox3mwinter.jpg",
+    "url": "/seraph/motox3mwinter/index.html"
+  },
+  {
+    "name": "Snake",
+    "img": "/img/seraph/snake.jpg",
+    "url": "/seraph/snake/index.html"
+  },
+  {
+    "name": "Papa's Tacomia",
+    "img": "/img/seraph/papastacomia.jpg",
+    "url": "/seraph/papastacomia/index.html"
+  },
+  {
+    "name": "Ovo",
+    "img": "/img/seraph/ovo.jpg",
+    "url": "/seraph/ovo/index.html"
+  },
+  {
+    "name": "Knife Hit",
+    "img": "/img/seraph/knifehit.jpg",
+    "url": "/seraph/knifehit/index.html"
+  },
+  {
+    "name": "Cubefield",
+    "img": "/img/seraph/cubefield.jpg",
+    "url": "/seraph/cubefield/index.html"
+  },
+  {
+    "name": "Burger And Frights",
+    "img": "/img/seraph/burgerandfrights.jpg",
+    "url": "/seraph/burgerandfrights/index.html"
+  },
+  {
+    "name": "Chess",
+    "img": "/img/seraph/chess.jpg",
+    "url": "/seraph/chess/index.html"
+  },
+  {
+    "name": "Fnf Mid Fight Masses",
+    "img": "/img/seraph/fnfmidfight.jpg",
+    "url": "/seraph/fnfmidfight/index.html"
+  },
+  {
+    "name": "Thumb Fighter",
+    "img": "/img/seraph/thumbfighter.jpg",
+    "url": "/seraph/thumbfighter/index.html"
+  },
+  {
+    "name": "Snow Battle Io",
+    "img": "/img/seraph/snowbattleio.jpg",
+    "url": "/seraph/snowbattleio/index.html"
+  },
+  {
+    "name": "Lazy Jump 3d",
+    "img": "/img/seraph/lazyjump3d.jpg",
+    "url": "/seraph/lazyjump3d/index.html"
+  },
+  {
+    "name": "Go Ball",
+    "img": "/img/seraph/goball.jpg",
+    "url": "/seraph/goball/index.html"
+  },
+  {
+    "name": "Flippy Fish",
+    "img": "/img/seraph/flippyfish.jpg",
+    "url": "/seraph/flippyfish/index.html"
+  },
+  {
+    "name": "Shop Empire",
+    "img": "/img/seraph/shopempire.jpg",
+    "url": "/seraph/shopempire/index.html"
+  },
+  {
+    "name": "Monster Brawl",
+    "img": "/img/seraph/monsterbrawl.jpg",
+    "url": "/seraph/monsterbrawl/index.html"
+  },
+  {
+    "name": "Multitask",
+    "img": "/img/seraph/multitask.jpg",
+    "url": "/seraph/multitask/index.html"
+  },
+  {
+    "name": "Shift",
+    "img": "/img/seraph/shift.jpg",
+    "url": "/seraph/shift/index.html"
+  },
+  {
+    "name": "Shift 2",
+    "img": "/img/seraph/shift2.jpg",
+    "url": "/seraph/shift2/index.html"
+  },
+  {
+    "name": "Shift 3",
+    "img": "/img/seraph/shift3.jpg",
+    "url": "/seraph/shift3/index.html"
+  },
+  {
+    "name": "Shift 4",
+    "img": "/img/seraph/shift4.jpg",
+    "url": "/seraph/shift4/index.html"
+  },
+  {
+    "name": "Monopoly",
+    "img": "/img/seraph/monopoly.jpg",
+    "url": "/seraph/monopoly/index.html"
+  },
+  {
+    "name": "Picross Ds",
+    "img": "/img/seraph/picrossds.jpg",
+    "url": "/seraph/picrossds/index.html"
+  },
+  {
+    "name": "Warioware Diy",
+    "img": "/img/seraph/wariowarediy.jpg",
+    "url": "/seraph/wariowarediy/index.html"
+  },
+  {
+    "name": "Pizza Tower",
+    "img": "/img/seraph/pizzatower.jpg",
+    "url": "/seraph/pizzatower/index.html"
+  },
+  {
+    "name": "Territorial Io",
+    "img": "/img/seraph/territorialio.jpg",
+    "url": "/seraph/territorialio/index.html"
+  },
+  {
+    "name": "1v1lol",
+    "img": "/img/seraph/1v1lol.jpg",
+    "url": "/seraph/1v1lol/index.html"
+  },
+  {
+    "name": "Ballistic Chickens",
+    "img": "/img/seraph/ballisticchickens.jpg",
+    "url": "/seraph/ballisticchickens/index.html"
+  },
+  {
+    "name": "Basketbros Io",
+    "img": "/img/seraph/basketbrosio.jpg",
+    "url": "/seraph/basketbrosio/index.html"
+  },
+  {
+    "name": "Minecraft Classic",
+    "img": "/img/seraph/mcclassic.jpg",
+    "url": "/seraph/mcclassic/index.html"
+  },
+  {
+    "name": "Death Run 3d",
+    "img": "/img/seraph/deathrun3d.jpg",
+    "url": "/seraph/deathrun3d/index.html"
+  },
+  {
+    "name": "Soccer Random",
+    "img": "/img/seraph/soccerrandom.jpg",
+    "url": "/seraph/soccerrandom/index.html"
+  },
+  {
+    "name": "Sprinter",
+    "img": "/img/seraph/sprinter.jpg",
+    "url": "/seraph/sprinter/index.html"
+  },
+  {
+    "name": "Tron",
+    "img": "/img/seraph/tron.jpg",
+    "url": "/seraph/tron/index.html"
+  },
+  {
+    "name": "1 On 1 Soccer",
+    "img": "/img/seraph/1on1soccer.jpg",
+    "url": "/seraph/1on1soccer/index.html"
+  },
+  {
+    "name": "Bad Time Simulator",
+    "img": "/img/seraph/badtimesimulator.jpg",
+    "url": "/seraph/badtimesimulator/index.html"
+  },
+  {
+    "name": "Amazing Rope Police",
+    "img": "/img/seraph/amazingropepolice.jpg",
+    "url": "/seraph/amazingropepolice/index.html"
+  },
+  {
+    "name": "Celeste",
+    "img": "/img/seraph/celeste.jpg",
+    "url": "/seraph/celeste/index.html"
+  },
+  {
+    "name": "Just Fall Lol",
+    "img": "/img/seraph/justfalllol.jpg",
+    "url": "/seraph/justfalllol/index.html"
+  },
+  {
+    "name": "Ngon",
+    "img": "/img/seraph/ngon.jpg",
+    "url": "/seraph/ngon/index.html"
+  },
+  {
+    "name": "Rocket Soccer",
+    "img": "/img/seraph/rocketsoccer.jpg",
+    "url": "/seraph/rocketsoccer/index.html"
+  },
+  {
+    "name": "Stickman Climb",
+    "img": "/img/seraph/stickmanclimb.jpg",
+    "url": "/seraph/stickmanclimb/index.html"
+  },
+  {
+    "name": "Osu!mania",
+    "img": "/img/seraph/osumania.jpg",
+    "url": "/seraph/osumania/index.html"
+  },
+  {
+    "name": "Helix Jump",
+    "img": "/img/seraph/helixjump.jpg",
+    "url": "/seraph/helixjump/index.html"
+  },
+  {
+    "name": "Dadish",
+    "img": "/img/seraph/dadish.jpg",
+    "url": "/seraph/dadish/index.html"
+  },
+  {
+    "name": "Dadish 2",
+    "img": "/img/seraph/dadish2.jpg",
+    "url": "/seraph/dadish2/index.html"
+  },
+  {
+    "name": "Dadish 3",
+    "img": "/img/seraph/dadish3.jpg",
+    "url": "/seraph/dadish3/index.html"
+  },
+  {
+    "name": "Snow Rider 3d",
+    "img": "/img/seraph/snowrider3d.jpg",
+    "url": "/seraph/snowrider3d/index.html"
+  },
+  {
+    "name": "Tube Jumpers",
+    "img": "/img/seraph/tubejumpers.jpg",
+    "url": "/seraph/tubejumpers/index.html"
+  },
+  {
+    "name": "Yohoho Io",
+    "img": "/img/seraph/yohoho.jpg",
+    "url": "/seraph/yohoho/index.html"
+  },
+  {
+    "name": "10 Minutes Till Dawn",
+    "img": "/img/seraph/10minutestilldawn.jpg",
+    "url": "/seraph/10minutestilldawn/index.html"
+  },
+  {
+    "name": "Volley Random",
+    "img": "/img/seraph/volleyrandom.jpg",
+    "url": "/seraph/volleyrandom/index.html"
+  },
+  {
+    "name": "Waterworks",
+    "img": "/img/seraph/waterworks.jpg",
+    "url": "/seraph/waterworks/index.html"
+  },
+  {
+    "name": "Geometry Rash",
+    "img": "/img/seraph/geometryrash.jpg",
+    "url": "/seraph/geometryrash/index.html"
+  },
+  {
+    "name": "Hole Io",
+    "img": "/img/seraph/holeio.jpg",
+    "url": "/seraph/holeio/index.html"
+  },
+  {
+    "name": "Sandtrix",
+    "img": "/img/seraph/sandtrix.jpg",
+    "url": "/seraph/sandtrix/index.html"
+  },
+  {
+    "name": "Shapeshipper",
+    "img": "/img/seraph/shapeshipper.jpg",
+    "url": "/seraph/shapeshipper/index.html"
+  },
+  {
+    "name": "Slope Ball",
+    "img": "/img/seraph/slopeball.jpg",
+    "url": "/seraph/slopeball/index.html"
+  },
+  {
+    "name": "Stickman Golf",
+    "img": "/img/seraph/stickmangolf.jpg",
+    "url": "/seraph/stickmangolf/index.html"
+  },
+  {
+    "name": "Totally Accurate Battle Sim",
+    "img": "/img/seraph/tabs.jpg",
+    "url": "/seraph/tabs/index.html"
+  },
+  {
+    "name": "Watermelon Game",
+    "img": "/img/seraph/watermelongame.jpg",
+    "url": "/seraph/watermelongame/index.html"
+  },
+  {
+    "name": "Wall Smash",
+    "img": "/img/seraph/wallsmash.jpg",
+    "url": "/seraph/wallsmash/index.html"
+  },
+  {
+    "name": "Crimson Fantasia",
+    "img": "/img/seraph/crimsonfantasia.jpg",
+    "url": "/seraph/crimsonfantasia/index.html"
+  },
+  {
+    "name": "Cut The Rope",
+    "img": "/img/seraph/cuttherope.jpg",
+    "url": "/seraph/cuttherope/index.html"
+  },
+  {
+    "name": "Funny Mad Racing",
+    "img": "/img/seraph/funnymadracing.jpg",
+    "url": "/seraph/funnymadracing/index.html"
+  },
+  {
+    "name": "Geometry Dash Lite",
+    "img": "/img/seraph/gdlite.jpg",
+    "url": "/seraph/gdlite/index.html"
+  },
+  {
+    "name": "Grand Theft Grotto",
+    "img": "/img/seraph/grandtheftgrotto.jpg",
+    "url": "/seraph/grandtheftgrotto/index.html"
+  },
+  {
+    "name": "Drift Mania",
+    "img": "/img/seraph/driftmania.jpg",
+    "url": "/seraph/driftmania/index.html"
+  },
+  {
+    "name": "Rise Higher",
+    "img": "/img/seraph/risehigher.jpg",
+    "url": "/seraph/risehigher/index.html"
+  },
+  {
+    "name": "Burrito Bison",
+    "img": "/img/seraph/burritobison.jpg",
+    "url": "/seraph/burritobison/index.html"
+  },
+  {
+    "name": "Pool",
+    "img": "/img/seraph/pool.jpg",
+    "url": "/seraph/pool/index.html"
+  },
+  {
+    "name": "Redball",
+    "img": "/img/seraph/redball1.jpg",
+    "url": "/seraph/redball1/index.html"
+  },
+  {
+    "name": "Redball 3",
+    "img": "/img/seraph/redball3.jpg",
+    "url": "/seraph/redball3/index.html"
+  },
+  {
+    "name": "Redball 4",
+    "img": "/img/seraph/redball4.jpg",
+    "url": "/seraph/redball4/index.html"
+  },
+  {
+    "name": "Redball 4 Vol 2",
+    "img": "/img/seraph/redballv2.jpg",
+    "url": "/seraph/redballv2/index.html"
+  },
+  {
+    "name": "Redball 4 Vol 3",
+    "img": "/img/seraph/redballv3.jpg",
+    "url": "/seraph/redballv3/index.html"
+  },
+  {
+    "name": "Rough Dino",
+    "img": "/img/seraph/roughdino.jpg",
+    "url": "/seraph/roughdino/index.html"
+  },
+  {
+    "name": "Time Shooter",
+    "img": "/img/seraph/timeshooter1.jpg",
+    "url": "/seraph/timeshooter1/index.html"
+  },
+  {
+    "name": "Time Shooter 2",
+    "img": "/img/seraph/timeshooter2.jpg",
+    "url": "/seraph/timeshooter2/index.html"
+  },
+  {
+    "name": "Time Shooter 3",
+    "img": "/img/seraph/timeshooter3.jpg",
+    "url": "/seraph/timeshooter3/index.html"
+  },
+  {
+    "name": "Battletoads",
+    "img": "/img/seraph/battletoads.jpg",
+    "url": "/seraph/battletoads/index.html"
+  },
+  {
+    "name": "Castlevania",
+    "img": "/img/seraph/castlevaniaiii.jpg",
+    "url": "/seraph/castlevaniaiii/index.html"
+  },
+  {
+    "name": "Contra",
+    "img": "/img/seraph/contra.jpg",
+    "url": "/seraph/contra/index.html"
+  },
+  {
+    "name": "Duck Tales",
+    "img": "/img/seraph/ducktales.jpg",
+    "url": "/seraph/ducktales/index.html"
+  },
+  {
+    "name": "Kid Icarus",
+    "img": "/img/seraph/kidicarus.jpg",
+    "url": "/seraph/kidicarus/index.html"
+  },
+  {
+    "name": "Mega Man 2",
+    "img": "/img/seraph/megaman2.jpg",
+    "url": "/seraph/megaman2/index.html"
+  },
+  {
+    "name": "Ninja Gaiden",
+    "img": "/img/seraph/ninjagaiden.jpg",
+    "url": "/seraph/ninjagaiden/index.html"
+  },
+  {
+    "name": "Punch Out",
+    "img": "/img/seraph/punchout.jpg",
+    "url": "/seraph/punchout/index.html"
+  },
+  {
+    "name": "Chrono Trigger",
+    "img": "/img/seraph/chronotrigger.jpg",
+    "url": "/seraph/chronotrigger/index.html"
+  },
+  {
+    "name": "Contra Iii",
+    "img": "/img/seraph/contraiii.jpg",
+    "url": "/seraph/contraiii/index.html"
+  },
+  {
+    "name": "Donkey Kong Country 3",
+    "img": "/img/seraph/donkeykongcountry3.jpg",
+    "url": "/seraph/donkeykongcountry3/index.html"
+  },
+  {
+    "name": "Earthbound",
+    "img": "/img/seraph/earthbound.jpg",
+    "url": "/seraph/earthbound/index.html"
+  },
+  {
+    "name": "Final Fantasy Iv",
+    "img": "/img/seraph/finalfantasyvi.jpg",
+    "url": "/seraph/finalfantasyvi/index.html"
+  },
+  {
+    "name": "F-Zero",
+    "img": "/img/seraph/fzero.jpg",
+    "url": "/seraph/fzero/index.html"
+  },
+  {
+    "name": "Super Metroid",
+    "img": "/img/seraph/supermetroid.jpg",
+    "url": "/seraph/supermetroid/index.html"
+  },
+  {
+    "name": "Banjo Tooie",
+    "img": "/img/seraph/banjotooie.jpg",
+    "url": "/seraph/banjotooie/index.html"
+  },
+  {
+    "name": "Harvest Moon 64",
+    "img": "/img/seraph/harvestmoon64.jpg",
+    "url": "/seraph/harvestmoon64/index.html"
+  },
+  {
+    "name": "Jet Force Gemini",
+    "img": "/img/seraph/jetforcegemini.jpg",
+    "url": "/seraph/jetforcegemini/index.html"
+  },
+  {
+    "name": "Mystical Ninja",
+    "img": "/img/seraph/mysticalninja.jpg",
+    "url": "/seraph/mysticalninja/index.html"
+  },
+  {
+    "name": "Turok Dinosaur Hunter",
+    "img": "/img/seraph/turokdinosaurhunter.jpg",
+    "url": "/seraph/turokdinosaurhunter/index.html"
+  },
+  {
+    "name": "Yoshi's Story",
+    "img": "/img/seraph/yoshisstory.jpg",
+    "url": "/seraph/yoshisstory/index.html"
+  },
+  {
+    "name": "Kirby's Dreamland 2",
+    "img": "/img/seraph/kirbysdreamland2.jpg",
+    "url": "/seraph/kirbysdreamland2/index.html"
+  },
+  {
+    "name": "Link's Awakening Dx",
+    "img": "/img/seraph/linksawakeningdx.jpg",
+    "url": "/seraph/linksawakeningdx/index.html"
+  },
+  {
+    "name": "Metroid Ii",
+    "img": "/img/seraph/metroidii.jpg",
+    "url": "/seraph/metroidii/index.html"
+  },
+  {
+    "name": "Super Mario Land 2",
+    "img": "/img/seraph/supermarioland2.jpg",
+    "url": "/seraph/supermarioland2/index.html"
+  },
+  {
+    "name": "Wario Land Ii",
+    "img": "/img/seraph/wariolandii.jpg",
+    "url": "/seraph/wariolandii/index.html"
+  },
+  {
+    "name": "Castlevania Aria Of Sorrow",
+    "img": "/img/seraph/castlevaniaariaofsorrow.jpg",
+    "url": "/seraph/castlevaniaariaofsorrow/index.html"
+  },
+  {
+    "name": "Final Fantasy Tactics Adv",
+    "img": "/img/seraph/finalfantasytacticsadvance.jpg",
+    "url": "/seraph/finalfantasytacticsadvance/index.html"
+  },
+  {
+    "name": "Drill Dozer",
+    "img": "/img/seraph/drilldozer.jpg",
+    "url": "/seraph/drilldozer/index.html"
+  },
+  {
+    "name": "Advance Wars Days Of Ruin",
+    "img": "/img/seraph/advancewarsdayofruin.jpg",
+    "url": "/seraph/advancewarsdayofruin/index.html"
+  },
+  {
+    "name": "Castlevania Dawn Of Sorrow",
+    "img": "/img/seraph/castlevaniadawnofsorrow.jpg",
+    "url": "/seraph/castlevaniadawnofsorrow/index.html"
+  },
+  {
+    "name": "Order Of Ecclesia",
+    "img": "/img/seraph/castlevaniaorderofecclesia.jpg",
+    "url": "/seraph/castlevaniaorderofecclesia/index.html"
+  },
+  {
+    "name": "Partners In Time",
+    "img": "/img/seraph/marioandluigipartnersintime.jpg",
+    "url": "/seraph/marioandluigipartnersintime/index.html"
+  },
+  {
+    "name": "Comix Zone",
+    "img": "/img/seraph/comixzone.jpg",
+    "url": "/seraph/comixzone/index.html"
+  },
+  {
+    "name": "Ecco The Dolphin",
+    "img": "/img/seraph/eccothedolphin.jpg",
+    "url": "/seraph/eccothedolphin/index.html"
+  },
+  {
+    "name": "Gunstar Heroes",
+    "img": "/img/seraph/gunstarheroes.jpg",
+    "url": "/seraph/gunstarheroes/index.html"
+  },
+  {
+    "name": "Phantasy Star Iv",
+    "img": "/img/seraph/phantasystariv.jpg",
+    "url": "/seraph/phantasystariv/index.html"
+  },
+  {
+    "name": "Ranger X",
+    "img": "/img/seraph/rangerx.jpg",
+    "url": "/seraph/rangerx/index.html"
+  },
+  {
+    "name": "Ristar",
+    "img": "/img/seraph/ristar.jpg",
+    "url": "/seraph/ristar/index.html"
+  },
+  {
+    "name": "Shining Force",
+    "img": "/img/seraph/shiningforce.jpg",
+    "url": "/seraph/shiningforce/index.html"
+  },
+  {
+    "name": "Shinobi Iii",
+    "img": "/img/seraph/shinobiiii.jpg",
+    "url": "/seraph/shinobiiii/index.html"
+  },
+  {
+    "name": "Sonic The Hedgehog",
+    "img": "/img/seraph/sonicthehedgehog.jpg",
+    "url": "/seraph/sonicthehedgehog/index.html"
+  },
+  {
+    "name": "Sonic The Hedgehog 2",
+    "img": "/img/seraph/sonicthehedgehog2.jpg",
+    "url": "/seraph/sonicthehedgehog2/index.html"
+  },
+  {
+    "name": "Streets Of Rage 2",
+    "img": "/img/seraph/streetsofrage2.jpg",
+    "url": "/seraph/streetsofrage2/index.html"
+  },
+  {
+    "name": "Vectorman",
+    "img": "/img/seraph/vectorman.jpg",
+    "url": "/seraph/vectorman/index.html"
+  },
+  {
+    "name": "Vectorman 2",
+    "img": "/img/seraph/vectorman2.jpg",
+    "url": "/seraph/vectorman2/index.html"
+  },
+  {
+    "name": "Illusion Of Gaia",
+    "img": "/img/seraph/illusionofgaia.jpg",
+    "url": "/seraph/illusionofgaia/index.html"
+  },
+  {
+    "name": "Pokemon Yellow",
+    "img": "/img/seraph/pokemonyellow.jpg",
+    "url": "/seraph/pokemonyellow/index.html"
+  },
+  {
+    "name": "Abuda The Alien",
+    "img": "/img/seraph/abudathealien.jpg",
+    "url": "/seraph/abudathealien/index.html"
+  },
+  {
+    "name": "Battle Beavers",
+    "img": "/img/seraph/battlebeavers.jpg",
+    "url": "/seraph/battlebeavers/index.html"
+  },
+  {
+    "name": "Control Craft 2",
+    "img": "/img/seraph/controlcraft2.jpg",
+    "url": "/seraph/controlcraft2/index.html"
+  },
+  {
+    "name": "Age Of War",
+    "img": "/img/seraph/ageofwar.jpg",
+    "url": "/seraph/ageofwar/index.html"
+  },
+  {
+    "name": "Age Of War 2",
+    "img": "/img/seraph/ageofwar2.jpg",
+    "url": "/seraph/ageofwar2/index.html"
+  },
+  {
+    "name": "Amorphous",
+    "img": "/img/seraph/amorphous.jpg",
+    "url": "/seraph/amorphous/index.html"
+  },
+  {
+    "name": "Bubble Spinner",
+    "img": "/img/seraph/bubblespinner.jpg",
+    "url": "/seraph/bubblespinner/index.html"
+  },
+  {
+    "name": "Crush The Castle",
+    "img": "/img/seraph/crushthecastle.jpg",
+    "url": "/seraph/crushthecastle/index.html"
+  },
+  {
+    "name": "Crush The Castle 2",
+    "img": "/img/seraph/crushthecastle2.jpg",
+    "url": "/seraph/crushthecastle2/index.html"
+  },
+  {
+    "name": "Epic Battle Fantasy",
+    "img": "/img/seraph/epicbattlefantasy.jpg",
+    "url": "/seraph/epicbattlefantasy/index.html"
+  },
+  {
+    "name": "Epic Battle Fantasy 2",
+    "img": "/img/seraph/epicbattlefantasy2.jpg",
+    "url": "/seraph/epicbattlefantasy2/index.html"
+  },
+  {
+    "name": "Epic Battle Fantasy 3",
+    "img": "/img/seraph/epicbattlefantasy3.jpg",
+    "url": "/seraph/epicbattlefantasy3/index.html"
+  },
+  {
+    "name": "Fancy Pants Adventure 3",
+    "img": "/img/seraph/fancypantsadventure3.jpg",
+    "url": "/seraph/fancypantsadventure3/index.html"
+  },
+  {
+    "name": "Flood Runner 2",
+    "img": "/img/seraph/floodrunner2.jpg",
+    "url": "/seraph/floodrunner2/index.html"
+  },
+  {
+    "name": "Flood Runner 3",
+    "img": "/img/seraph/floodrunner3.jpg",
+    "url": "/seraph/floodrunner3/index.html"
+  },
+  {
+    "name": "Dragon Boy 2",
+    "img": "/img/seraph/dragonboy2.jpg",
+    "url": "/seraph/dragonboy2/index.html"
+  },
+  {
+    "name": "Neon Rider",
+    "img": "/img/seraph/neonrider.jpg",
+    "url": "/seraph/neonrider/index.html"
+  },
+  {
+    "name": "Pandemic 2",
+    "img": "/img/seraph/pandemic2.jpg",
+    "url": "/seraph/pandemic2/index.html"
+  },
+  {
+    "name": "Stick War",
+    "img": "/img/seraph/stickwar.jpg",
+    "url": "/seraph/stickwar/index.html"
+  },
+  {
+    "name": "Stick War 2",
+    "img": "/img/seraph/stickwar2.jpg",
+    "url": "/seraph/stickwar2/index.html"
+  },
+  {
+    "name": "Ultimate Flash Sonic",
+    "img": "/img/seraph/ultimateflashsonic.jpg",
+    "url": "/seraph/ultimateflashsonic/index.html"
+  },
+  {
+    "name": "Zombocalypse",
+    "img": "/img/seraph/zombocalypse.jpg",
+    "url": "/seraph/zombocalypse/index.html"
+  },
+  {
+    "name": "Zombotron",
+    "img": "/img/seraph/zombotron.jpg",
+    "url": "/seraph/zombotron/index.html"
+  },
+  {
+    "name": "Zombotron 2",
+    "img": "/img/seraph/zombotron2.jpg",
+    "url": "/seraph/zombotron2/index.html"
+  },
+  {
+    "name": "Backrooms 2d",
+    "img": "/img/seraph/backrooms2d.jpg",
+    "url": "/seraph/backrooms2d/index.html"
+  },
+  {
+    "name": "Basket Random",
+    "img": "/img/seraph/basketrandom.jpg",
+    "url": "/seraph/basketrandom/index.html"
+  },
+  {
+    "name": "Csgo Clicker",
+    "img": "/img/seraph/csgoclicker.jpg",
+    "url": "/seraph/csgoclicker/index.html"
+  },
+  {
+    "name": "Doom",
+    "img": "/img/seraph/doom.jpg",
+    "url": "/seraph/doom/index.html"
+  },
+  {
+    "name": "Funny Shooter 2",
+    "img": "/img/seraph/funnyshooter2.jpg",
+    "url": "/seraph/funnyshooter2/index.html"
+  },
+  {
+    "name": "Gun Fest",
+    "img": "/img/seraph/gunfest.jpg",
+    "url": "/seraph/gunfest/index.html"
+  },
+  {
+    "name": "Infinite Craft",
+    "img": "/img/seraph/infinitecraft.jpg",
+    "url": "/seraph/infinitecraft/index.html"
+  },
+  {
+    "name": "Lows Adventures 2",
+    "img": "/img/seraph/lowsadventures2.jpg",
+    "url": "/seraph/lowsadventures2/index.html"
+  },
+  {
+    "name": "Pako Highway",
+    "img": "/img/seraph/pakohighway.jpg",
+    "url": "/seraph/pakohighway/index.html"
+  },
+  {
+    "name": "Recoil",
+    "img": "/img/seraph/recoil.jpg",
+    "url": "/seraph/recoil/index.html"
+  },
+  {
+    "name": "Run 3 Plus",
+    "img": "/img/seraph/run3plus.jpg",
+    "url": "/seraph/run3plus/index.html"
+  },
+  {
+    "name": "Slope City",
+    "img": "/img/seraph/slopecity.jpg",
+    "url": "/seraph/slopecity/index.html"
+  },
+  {
+    "name": "State Io",
+    "img": "/img/seraph/stateio.jpg",
+    "url": "/seraph/stateio/index.html"
+  },
+  {
+    "name": "Sudoku",
+    "img": "/img/seraph/sudoku.jpg",
+    "url": "/seraph/sudoku/index.html"
+  },
+  {
+    "name": "Superhero Drop",
+    "img": "/img/seraph/superherodrop.jpg",
+    "url": "/seraph/superherodrop/index.html"
+  },
+  {
+    "name": "Balloon Run",
+    "img": "/img/seraph/balloonrun.jpg",
+    "url": "/seraph/balloonrun/index.html"
+  },
+  {
+    "name": "Crazy Tunnel 3d",
+    "img": "/img/seraph/crazytunnel3d.jpg",
+    "url": "/seraph/crazytunnel3d/index.html"
+  },
+  {
+    "name": "Minecraft [v1.8]",
+    "img": "/img/seraph/eagler1.8.jpg",
+    "url": "/seraph/eagler1.8/index.html"
+  },
+  {
+    "name": "Geometry Dash Sky",
+    "img": "/img/seraph/geometrydashsky.jpg",
+    "url": "/seraph/geometrydashsky/index.html"
+  },
+  {
+    "name": "Wubzzys Adventure",
+    "img": "/img/seraph/wubzzysamazingadventure.jpg",
+    "url": "/seraph/wubzzysamazingadventure/index.html"
+  },
+  {
+    "name": "Gold Digger Frvr",
+    "img": "/img/seraph/golddiggerfrvr.jpg",
+    "url": "/seraph/golddiggerfrvr/index.html"
+  },
+  {
+    "name": "Hexgl",
+    "img": "/img/seraph/hexgl.jpg",
+    "url": "/seraph/hexgl/index.html"
+  },
+  {
+    "name": "House Of Hazards",
+    "img": "/img/seraph/houseofhazards.jpg",
+    "url": "/seraph/houseofhazards/index.html"
+  },
+  {
+    "name": "Pick Crafter",
+    "img": "/img/seraph/pickcrafter.jpg",
+    "url": "/seraph/pickcrafter/index.html"
+  },
+  {
+    "name": "Precision Client",
+    "img": "/img/seraph/precisionclient.jpg",
+    "url": "/seraph/precisionclient/index.html"
+  },
+  {
+    "name": "Subway Runner",
+    "img": "/img/seraph/subwayrunner.jpg",
+    "url": "/seraph/subwayrunner/index.html"
+  },
+  {
+    "name": "Xx142-B2.Exe",
+    "img": "/img/seraph/xx142-b2.exe.jpg",
+    "url": "/seraph/xx142-b2.exe/index.html"
+  },
+  {
+    "name": "Canopy",
+    "img": "/img/seraph/canopy.jpg",
+    "url": "/seraph/canopy/index.html"
+  },
+  {
+    "name": "Cave Chaos",
+    "img": "/img/seraph/cavechaos.jpg",
+    "url": "/seraph/cavechaos/index.html"
+  },
+  {
+    "name": "Change Type",
+    "img": "/img/seraph/changetype.jpg",
+    "url": "/seraph/changetype/index.html"
+  },
+  {
+    "name": "Cheese Dreams",
+    "img": "/img/seraph/cheesedreams.jpg",
+    "url": "/seraph/cheesedreams/index.html"
+  },
+  {
+    "name": "Chisel",
+    "img": "/img/seraph/chisel.jpg",
+    "url": "/seraph/chisel/index.html"
+  },
+  {
+    "name": "Chisel 2",
+    "img": "/img/seraph/chisel2.jpg",
+    "url": "/seraph/chisel2/index.html"
+  },
+  {
+    "name": "Ditto",
+    "img": "/img/seraph/ditto.jpg",
+    "url": "/seraph/ditto/index.html"
+  },
+  {
+    "name": "Feed Me",
+    "img": "/img/seraph/feedme.jpg",
+    "url": "/seraph/feedme/index.html"
+  },
+  {
+    "name": "Final Ninja",
+    "img": "/img/seraph/finalninja.jpg",
+    "url": "/seraph/finalninja/index.html"
+  },
+  {
+    "name": "Frost Bite",
+    "img": "/img/seraph/frostbite.jpg",
+    "url": "/seraph/frostbite/index.html"
+  },
+  {
+    "name": "Frost Bite 2",
+    "img": "/img/seraph/frostbite2.jpg",
+    "url": "/seraph/frostbite2/index.html"
+  },
+  {
+    "name": "Icebreaker",
+    "img": "/img/seraph/icebreaker.jpg",
+    "url": "/seraph/icebreaker/index.html"
+  },
+  {
+    "name": "Mutiny",
+    "img": "/img/seraph/mutiny.jpg",
+    "url": "/seraph/mutiny/index.html"
+  },
+  {
+    "name": "Nitrome Must Die",
+    "img": "/img/seraph/nitromemustdie.jpg",
+    "url": "/seraph/nitromemustdie/index.html"
+  },
+  {
+    "name": "Oodlegobs",
+    "img": "/img/seraph/oodlegobs.jpg",
+    "url": "/seraph/oodlegobs/index.html"
+  },
+  {
+    "name": "Super Treadmill",
+    "img": "/img/seraph/supertreadmill.jpg",
+    "url": "/seraph/supertreadmill/index.html"
+  },
+  {
+    "name": "Swindler",
+    "img": "/img/seraph/swindler.jpg",
+    "url": "/seraph/swindler/index.html"
+  },
+  {
+    "name": "Test Subject Arena",
+    "img": "/img/seraph/testsubjectarena.jpg",
+    "url": "/seraph/testsubjectarena/index.html"
+  },
+  {
+    "name": "Test Subject Complete",
+    "img": "/img/seraph/testsubjectcomplete.jpg",
+    "url": "/seraph/testsubjectcomplete/index.html"
+  },
+  {
+    "name": "Twin Shot",
+    "img": "/img/seraph/twinshot.jpg",
+    "url": "/seraph/twinshot/index.html"
+  },
+  {
+    "name": "Twin Shot 2",
+    "img": "/img/seraph/twinshot2.jpg",
+    "url": "/seraph/twinshot2/index.html"
+  },
+  {
+    "name": "Three Line",
+    "img": "/img/seraph/3line.jpg",
+    "url": "/seraph/3line/index.html"
+  },
+  {
+    "name": "Bike Champ",
+    "img": "/img/seraph/bikechamp.jpg",
+    "url": "/seraph/bikechamp/index.html"
+  },
+  {
+    "name": "Bike Champ 2",
+    "img": "/img/seraph/bikechamp2.jpg",
+    "url": "/seraph/bikechamp2/index.html"
+  },
+  {
+    "name": "Corporation Inc",
+    "img": "/img/seraph/corporationinc.jpg",
+    "url": "/seraph/corporationinc/index.html"
+  },
+  {
+    "name": "Shop Empire Fable",
+    "img": "/img/seraph/shopempirefable.jpg",
+    "url": "/seraph/shopempirefable/index.html"
+  },
+  {
+    "name": "Cactus Mccoy",
+    "img": "/img/seraph/cactusmccoy.jpg",
+    "url": "/seraph/cactusmccoy/index.html"
+  },
+  {
+    "name": "Cactus Mccoy 2",
+    "img": "/img/seraph/cactusmccoy2.jpg",
+    "url": "/seraph/cactusmccoy2/index.html"
+  },
+  {
+    "name": "Papa Louie",
+    "img": "/img/seraph/papalouie.jpg",
+    "url": "/seraph/papalouie/index.html"
+  },
+  {
+    "name": "Papa Louie 2",
+    "img": "/img/seraph/papalouie2.jpg",
+    "url": "/seraph/papalouie2/index.html"
+  },
+  {
+    "name": "Papa Louie 3",
+    "img": "/img/seraph/papalouie3.jpg",
+    "url": "/seraph/papalouie3/index.html"
+  },
+  {
+    "name": "Steak And Jake",
+    "img": "/img/seraph/steakandjake.jpg",
+    "url": "/seraph/steakandjake/index.html"
+  },
+  {
+    "name": "Steak And Jake Midnight",
+    "img": "/img/seraph/steakandjakemidnightmarch.jpg",
+    "url": "/seraph/steakandjakemidnightmarch/index.html"
+  }
+]
