@@ -1,0 +1,4107 @@
+[
+  {
+    "name": "1",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/1game.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/1game.html"
+  },
+  {
+    "name": "1 on 1 Soccer",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/1on1soccer.jpg",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/1on1soccer.html"
+  },
+  {
+    "name": "1 on 1 Tennis",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/1on1tennis.jpg",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/1on1tennis.html"
+  },
+  {
+    "name": "1v1.lol",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/1v1.lol.webp",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/1v1lol.html"
+  },
+  {
+    "name": "10 Minutes till Dawn",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/10minutestilldawn.jpg",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/10minutestilldawn.html"
+  },
+  {
+    "name": "12 Mini Battles",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/12minibattles.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/12minibattles.html"
+  },
+  {
+    "name": "2048",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/2048.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/2048game.html"
+  },
+  {
+    "name": "2048 Merge Run",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/2048mergerun.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/2048mergerun.html"
+  },
+  {
+    "name": "2Doom",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/2doom.jpg",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/2doomgame.html"
+  },
+  {
+    "name": "3D Bowling",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/3dbowling.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/3dbowling.html"
+  },
+  {
+    "name": "3Dash",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/3dash.webp",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/3dash.html"
+  },
+  {
+    "name": "500 Caliber Contractz",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/500calibercontractz.webp",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/500calibercontractz.html"
+  },
+  {
+    "name": "60 Second Burger Run",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/60secondburgerrun.jpg",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/60secondburgerrun.html"
+  },
+  {
+    "name": "8 Ball Classic",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/8ballclassic.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/8ballclassic.html"
+  },
+  {
+    "name": "8 Ball Pool",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/8ballpool.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/8ballpool.html"
+  },
+  {
+    "name": "99 Balls",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/99balls.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/99balls.html"
+  },
+  {
+    "name": "99 Nights in the Forest",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/99nights.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/99nights.html"
+  },
+  {
+    "name": "A Bite at Freddys",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/abiteatfreddys.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/abiteatfreddys.html"
+  },
+  {
+    "name": "A Dance of Fire and Ice",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/adanceoffireandice.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/adanceoffireandice.html"
+  },
+  {
+    "name": "A Difficult Game About Climbing",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/adifficultgameaboutclimbing.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/adifficultgameaboutclimbing.html"
+  },
+  {
+    "name": "A Game About Feeding A Black Hole",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/agameaboutfeedingablackhole.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/agameaboutfeedingablackhole.html"
+  },
+  {
+    "name": "A Small World Cup",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/asmallworldcup.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/asmallworldcup.html"
+  },
+  {
+    "name": "Abandoned",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/abandoned.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/abandonedgame.html"
+  },
+  {
+    "name": "Abandoned 3",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/abandoned3.jpg",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/abandoned3.html"
+  },
+  {
+    "name": "Academytale",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/academytale.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/academytalegame.html"
+  },
+  {
+    "name": "Achievement Unlocked",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/achievementunlocked.jpg",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/achievementunlocked.html"
+  },
+  {
+    "name": "Achievement Unlocked 2",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/achievementunlocked2.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/achievementunlocked2.html"
+  },
+  {
+    "name": "Achievement Unlocked 3",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/achievementunlocked3.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/achievementunlocked3.html"
+  },
+  {
+    "name": "Adventure Capitalist",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/adventurecapitalist.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/adventurecapitalist.html"
+  },
+  {
+    "name": "Adventure Drivers",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/adventuredrivers.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/adventuredrivers.html"
+  },
+  {
+    "name": "Agar.io",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/agario.jpg",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/agario.html"
+  },
+  {
+    "name": "Age of Empires",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/ageofempires.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/ageofempires.html"
+  },
+  {
+    "name": "Ages of Conflict",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/agesofconflict.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/agesofconflict.html"
+  },
+  {
+    "name": "Alien Hominid",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/alienhominid.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/alienhominid.html"
+  },
+  {
+    "name": "Amanda the Adventurer",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/amandatheadventurer.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/amandatheadventurer.html"
+  },
+  {
+    "name": "Amaze",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/amaze.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/amazegame.html"
+  },
+  {
+    "name": "Amazing Strange Rope Police",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/amazingstrangeropepolice.jpg",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/amazingstrangeropepolice.html"
+  },
+  {
+    "name": "Among Us",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/amongus.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/amongus.html"
+  },
+  {
+    "name": "Andy's Apple Farm",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/andysapplefarm.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/andysapplefarm.html"
+  },
+  {
+    "name": "Angry Birds",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/angrybirds.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/angrybirds.html"
+  },
+  {
+    "name": "Angry Birds Chrome",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/angrybirdschrome.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/angrybirdschrome.html"
+  },
+  {
+    "name": "Angry Birds Epic",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/angrybirdsepic.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/angrybirdsepic.html"
+  },
+  {
+    "name": "Angry Birds Online",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/angrybirdsonline.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/angrybirdsonline.html"
+  },
+  {
+    "name": "Angry Birds Showdown",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/angrybirdshowdown.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/angrybirdsshowdown.html"
+  },
+  {
+    "name": "Animal Crossing Wild World",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/animalcrossingwildworld.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/animalcrossingwildworld.html"
+  },
+  {
+    "name": "Antonblast",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/antonblast.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/antonblastgame.html"
+  },
+  {
+    "name": "Apes VS Helium",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/apesvshelium.jpg",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/apesvshelium.html"
+  },
+  {
+    "name": "Aquapark.io",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/aquaparkio.jpg",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/aquaparkio.html"
+  },
+  {
+    "name": "Archery World Tour",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/archeryworldtour.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/archeryworldtour.html"
+  },
+  {
+    "name": "Arthur's Nightmare",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/arthurs nightmare.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/arthursnightmare.html"
+  },
+  {
+    "name": "Asteroids",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/asteroids.jpg",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/asteroidsgame.html"
+  },
+  {
+    "name": "Attack Hole",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/attackhole.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/attackhole.html"
+  },
+  {
+    "name": "Awesome Tanks",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/awesometanks.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/awesometanks.html"
+  },
+  {
+    "name": "Awesome Tanks 2",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/awesometanks2.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/awesometanks2.html"
+  },
+  {
+    "name": "Backrooms",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/backrooms.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/backroomsgame.html"
+  },
+  {
+    "name": "Bacon May Die",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/baconmaydie.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/baconmaydie.html"
+  },
+  {
+    "name": "Bad Ice Cream",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/badicecream.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/badicecream.html"
+  },
+  {
+    "name": "Bad Ice Cream 2",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/badicecream2.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/badicecream2.html"
+  },
+  {
+    "name": "Bad Ice Cream 3",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/badicecream3.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/badicecream3.html"
+  },
+  {
+    "name": "Bad Monday Simulator",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/badmondaysimulator.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/badmondaysimulator.html"
+  },
+  {
+    "name": "Bad Parenting 1",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/badparenting.jpg",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/badparenting1.html"
+  },
+  {
+    "name": "Bad Piggies",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/badpiggies.webp",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/badpiggies.html"
+  },
+  {
+    "name": "Bad Time Simulator",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/badtimesimulator.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/badtimesimulator.html"
+  },
+  {
+    "name": "Balatro",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/balatro.jpg",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/balatrogame.html"
+  },
+  {
+    "name": "Baldi's Basics",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/baldisbasics.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/baldisbasics.html"
+  },
+  {
+    "name": "Baldi's Basics Classic Remastered",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/baldisbasicsclassicremastered.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/baldisbasicsclassicremastered.html"
+  },
+  {
+    "name": "Baldi's Basics Plus",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/baldi'sbasicsplus.webp",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/baldisbasicsplus.html"
+  },
+  {
+    "name": "Baldur's Gate II",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/baldursgate2.webp",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/baldursgate2.html"
+  },
+  {
+    "name": "Ball Blast",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/ballblast.webp",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/ballblast.html"
+  },
+  {
+    "name": "Banjo Kazooie",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/banjokazooie.webp",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/banjokazooie.html"
+  },
+  {
+    "name": "Bank Robbery",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/bankrobbery1.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/bankrobbery.html"
+  },
+  {
+    "name": "Bank Robbery 2",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/bankrobbery2.webp",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/bankrobbery2.html"
+  },
+  {
+    "name": "Bank Robbery 3",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/bankrobbery3.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/bankrobbery3.html"
+  },
+  {
+    "name": "Bart Bash",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/bartbash.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/bartbash.html"
+  },
+  {
+    "name": "Bart Blast",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/bartblast.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/bartblast.html"
+  },
+  {
+    "name": "Baseball Bros",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/baseballbros.jpg",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/baseballbros.html"
+  },
+  {
+    "name": "Basket Battle",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/basketbattle.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/basketbattle.html"
+  },
+  {
+    "name": "Basket Bros",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/basketbros.jpg",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/basketbros.html"
+  },
+  {
+    "name": "Basket Random",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/basketrandom.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/Basketrandom.html"
+  },
+  {
+    "name": "Basketball Frvr",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/basketballfrvr.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/basketballfrvr.html"
+  },
+  {
+    "name": "Basketball Stars",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/basketballstars.jpg",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/basketballstars.html"
+  },
+  {
+    "name": "Battle Simulator",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/battlesimulator.jpg",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/battlesimulator.html"
+  },
+  {
+    "name": "Bazooka Boy",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/bazookaboy.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/bazookaboy.html"
+  },
+  {
+    "name": "Bendy and the Ink Machine",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/bendy.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/Bendyandtheinkmachine.html"
+  },
+  {
+    "name": "BERGENTRUCK",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/bergentruck.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/bergentruckgame.html"
+  },
+  {
+    "name": "BFDIA 5B",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/bfdia 5b.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/bfdia5b.html"
+  },
+  {
+    "name": "BFDIA 5B: 5*30",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/bfdia 5b 530.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/bfdia5b530.html"
+  },
+  {
+    "name": "Big ICE Tower Tiny Square",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/bigicetowertinysquare.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/bigicetowertinysquare.html"
+  },
+  {
+    "name": "Big NEON Tower Tiny Square",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/bigneontowertinysquare.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/bigneontowertinysquare.html"
+  },
+  {
+    "name": "Big Tower Tiny Square",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/bigtowertinysquare.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/bigtowertinysquare.html"
+  },
+  {
+    "name": "Big Tower Tiny Square 2",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/bigtowertinysquare2.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/bigtowertinysquare2.html"
+  },
+  {
+    "name": "BitGun.io",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/bitgunio.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/bitgunio.html"
+  },
+  {
+    "name": "Bitlife",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/bitlife.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/bitlife.html"
+  },
+  {
+    "name": "BitPlanes",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/bitplanes.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/bitplanesgame.html"
+  },
+  {
+    "name": "BlackJack",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/blackjack.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/blackjackgame.html"
+  },
+  {
+    "name": "Blade Ball",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/bladeball.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/bladeball.html"
+  },
+  {
+    "name": "Block Blast",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/blockblast.jpg",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/blockblast.html"
+  },
+  {
+    "name": "BlockPost",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/blockpost.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/blockpostgame.html"
+  },
+  {
+    "name": "Blocky Snakes",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/blockysnakes.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/blockysnakes.html"
+  },
+  {
+    "name": "BLOODMONEY!",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/bloodmoney.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/bloodmoney.html"
+  },
+  {
+    "name": "Bloxorz",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/bloxorz.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/bloxorzgame.html"
+  },
+  {
+    "name": "Blumgi Racers",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/blumgiracers.avif",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/blumgiracers.html"
+  },
+  {
+    "name": "Blumgi Rocket",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/blumgirocket.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/blumgirocket.html"
+  },
+  {
+    "name": "Blumgi Slime",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/blumgislime.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/blumgislime.html"
+  },
+  {
+    "name": "Bob the Robber 2",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/bobtherobber2.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/bobtherobber2.html"
+  },
+  {
+    "name": "Bomberman World",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/bombermanworld.jpg",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/bombermanworld.html"
+  },
+  {
+    "name": "Boom Slingers: Reboom",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/boomslingersreboom.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/boomslingersreboom.html"
+  },
+  {
+    "name": "Bottle Jump 3D",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/bottlejump3d.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/bottlejump3d.html"
+  },
+  {
+    "name": "Bouncemasters",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/bouncemasters.jpg",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/bouncemasters.html"
+  },
+  {
+    "name": "Bowmasters",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/bowmasters.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/bowmasters.html"
+  },
+  {
+    "name": "Boxing Random",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/boxingrandom.webp",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/boxingrandom.html"
+  },
+  {
+    "name": "Brawl Guys.io",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/brawlguysio.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/brawlguysio.html"
+  },
+  {
+    "name": "Brawl Stars",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/brawlstars.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/brawlstars.html"
+  },
+  {
+    "name": "Bridge Race",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/bridgerace.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/bridgerace.html"
+  },
+  {
+    "name": "Brotato",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/brotato.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/brotatogame.html"
+  },
+  {
+    "name": "BTD1",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/btd1.jpg",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/btd1.html"
+  },
+  {
+    "name": "BTD2",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/btd2.jpg",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/btd2.html"
+  },
+  {
+    "name": "BTD3",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/btd3.jpg",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/btd3.html"
+  },
+  {
+    "name": "BTD4",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/btd4.jpg",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/btd4.html"
+  },
+  {
+    "name": "BTD5",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/btd5.jpg",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/btd5.html"
+  },
+  {
+    "name": "Buckshot Roulette",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/buckshotroulette.jpg",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/buckshotroulette.html"
+  },
+  {
+    "name": "Build a Big Army",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/buildabigarmy.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/buildabigarmy.html"
+  },
+  {
+    "name": "Build a Plane",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/buildaplane.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/buildaplane.html"
+  },
+  {
+    "name": "Build a Queen",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/buildaqueen.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/buildaqueen.html"
+  },
+  {
+    "name": "Bullet Force",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/bulletforce.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/bulletforce.html"
+  },
+  {
+    "name": "Burrito Bison",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/burritobison.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/burritobison.html"
+  },
+  {
+    "name": "Bust a Loop",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/bustaloop.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/bustaloop.html"
+  },
+  {
+    "name": "Buster Jam",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/busterjam.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/busterjam.html"
+  },
+  {
+    "name": "Call of Duty 4: Modern Warfare",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/cod4modernwarfare.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/cod4modernwarfare.html"
+  },
+  {
+    "name": "Call of Duty Black Ops",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/callofdutyblackops.jpg",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/callofdutyblackops.html"
+  },
+  {
+    "name": "Call of Duty World at War",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/callofdutyworldatwar.jpg",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/callofdutyworldatwar.html"
+  },
+  {
+    "name": "Camouflage and Sniper",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/camouflageandsniper.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/camouflageandsniper.html"
+  },
+  {
+    "name": "Candy Crush",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/candycrush.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/candycrush.html"
+  },
+  {
+    "name": "Cannon Balls 3D",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/cannonballs3d.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/cannonballs3d.html"
+  },
+  {
+    "name": "Cannon Basketball",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/cannonbasketball.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/cannonbasketball.html"
+  },
+  {
+    "name": "Cannon Basketball 2",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/cannonbasketball2.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/cannonbasketball2.html"
+  },
+  {
+    "name": "Capybara Clicker",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/capybaraclicker.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/capybaraclicker.html"
+  },
+  {
+    "name": "Car Survival 3D",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/carsurvival3d.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/carsurvival3d.html"
+  },
+  {
+    "name": "Carrom Clash",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/carromclash.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/carromclash.html"
+  },
+  {
+    "name": "Castlevania: The Adventure",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/castlevaniatheadventure.jpg",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/castlevaniaadventure.html"
+  },
+  {
+    "name": "Cat Connection",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/catconnection.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/catconnection.html"
+  },
+  {
+    "name": "Cat Gunner: Super Zombie Shoot",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/catgunner.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/catgunner.html"
+  },
+  {
+    "name": "Cave Story",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/cavestory.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/cavestory.html"
+  },
+  {
+    "name": "Celeste",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/celeste.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/celestegame.html"
+  },
+  {
+    "name": "Celeste Pico-8",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/celestepico.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/celestepico.html"
+  },
+  {
+    "name": "CG FC 25",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/cgfc25.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/cgfc25.html"
+  },
+  {
+    "name": "Cheese Chompers 3D",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/cheesechompers3d.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/cheesechompers3d.html"
+  },
+  {
+    "name": "Cheese Rolling",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/cheeserolling.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/cheeserolling.html"
+  },
+  {
+    "name": "Chess",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/chess.jpg",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/chessgame.html"
+  },
+  {
+    "name": "Chess Classic",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/chessclassic.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/chessclassic.html"
+  },
+  {
+    "name": "Chiikawa Puzzle",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/chiikawapuzzle.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/chiikawapuzzle.html"
+  },
+  {
+    "name": "Choppy Orc",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/choppyorc.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/choppyorc.html"
+  },
+  {
+    "name": "CircloO",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/circloo.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/circloo1.html"
+  },
+  {
+    "name": "CircloO 2",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/circloo2.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/circloo2.html"
+  },
+  {
+    "name": "City Defense",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/citydefense.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/citydefense.html"
+  },
+  {
+    "name": "City Smash",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/citysmash.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/citysmash.html"
+  },
+  {
+    "name": "Clash of Vikings",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/clashofvikings.jpg",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/clashofvikings.html"
+  },
+  {
+    "name": "Class of '09",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/classof09.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/classof'09.html"
+  },
+  {
+    "name": "Class of 09 The Flipside",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/classof09theflipside.jpg",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/classof09theflipside.html"
+  },
+  {
+    "name": "Class of 09 The Re-Up",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/classof09there-up.webp",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/classof09there-up.html"
+  },
+  {
+    "name": "Clothing Shop 3D",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/clothingshop3d.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/clothingshop3d.html"
+  },
+  {
+    "name": "Clover Pit",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/cloverpit.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/cloverpit.html"
+  },
+  {
+    "name": "Cluster Rush",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/clusterrush.jpg",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/clusterrush.html"
+  },
+  {
+    "name": "Color Match",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/colormatch.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/colormatch.html"
+  },
+  {
+    "name": "Color Water Sort 3D",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/colorwatersort3d.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/colorwatersort3d.html"
+  },
+  {
+    "name": "Command & Conquer",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/command&conquer.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/command&conquer.html"
+  },
+  {
+    "name": "Cookie Clicker",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/cookieclicker.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/cookieclicker.html"
+  },
+  {
+    "name": "Cool Cars Run 3D",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/coolcarsrun3d.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/coolcarsrun3d.html"
+  },
+  {
+    "name": "Coreball",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/coreball.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/coreballgame.html"
+  },
+  {
+    "name": "Counter Strike 0.8",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/counterstrike0.8.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/counterstrike08.html"
+  },
+  {
+    "name": "Counter Strike 1.6",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/counterstrike1.6.jpg",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/counterstrike1.6.html"
+  },
+  {
+    "name": "Counter Strike DS",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/counterstrikeds.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/counterstrikeds.html"
+  },
+  {
+    "name": "Count Masters Stickman Games",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/countmastersstickmangames.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/countmastersstickmangames.html"
+  },
+  {
+    "name": "Crash Bandicoot",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/crashbandicoot.jpg",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/crashbandicoot.html"
+  },
+  {
+    "name": "Crash Bandicoot 2",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/crashbandicoot2.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/crashbandicoot2.html"
+  },
+  {
+    "name": "Crash Bandicoot 3",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/crashbandicoot3.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/crashbandicoot3.html"
+  },
+  {
+    "name": "Crazy Cars",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/crazycars.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/crazycars.html"
+  },
+  {
+    "name": "Crazy Cattle 3D",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/crazycattle3d.jpg",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/crazycattle3d.html"
+  },
+  {
+    "name": "Crazy Chicken 3D",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/crazychicken3d.jpg",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/crazychicken3d.html"
+  },
+  {
+    "name": "Crazy Kitty 3D",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/crazykitty3d.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/crazykitty3d.html"
+  },
+  {
+    "name": "Crossy Road",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/crossyroad.jpg",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/crossyroad.html"
+  },
+  {
+    "name": "Crush Cars 3D",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/crushcars3d.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/crushcars3d.html"
+  },
+  {
+    "name": "CSGO Clicker",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/csgoclicker.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/csgoclicker.html"
+  },
+  {
+    "name": "Cubefield",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/cubefield.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/cubefieldgame.html"
+  },
+  {
+    "name": "Cuphead",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/cuphead.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/cupheadgame.html"
+  },
+  {
+    "name": "Customer Support",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/customersupport.jpg",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/customersupport.html"
+  },
+  {
+    "name": "Cut the Rope",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/cuttherope.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/cuttherope.html"
+  },
+  {
+    "name": "Cut the Rope (Alternate)",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/cuttherope1.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/cuttherope1.html"
+  },
+  {
+    "name": "Cut the Rope: Holiday Gift",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/cuttheropeholiday.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/cuttheropeholiday.html"
+  },
+  {
+    "name": "Cut the Rope: Time Travel",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/cuttheropetimetravel.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/cuttheropetimetravel.html"
+  },
+  {
+    "name": "Dadish",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/dadish.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/dadish1.html"
+  },
+  {
+    "name": "Dadish 2",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/dadish2.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/dadish2.html"
+  },
+  {
+    "name": "Dadish 3",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/dadish3.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/dadish3.html"
+  },
+  {
+    "name": "Dadish 3D",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/dadish3d.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/dadish3d.html"
+  },
+  {
+    "name": "Daily Dadish",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/dailydadish.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/dailydadish.html"
+  },
+  {
+    "name": "Dalgona Candy Honeycomb Cookie",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/dalgonacandyhoneycombcookie.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/dalgonacandyhoneycombcookie.html"
+  },
+  {
+    "name": "Dan The Man",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/dantheman.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/dantheman.html"
+  },
+  {
+    "name": "Danganronpa 1",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/danganronpa.jpg",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/danganronpa1.html"
+  },
+  {
+    "name": "DEAD PLATE",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/deadplate.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/deadplate.html"
+  },
+  {
+    "name": "Dead Tapes",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/deadtapes.jpg",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/deadtapes.html"
+  },
+  {
+    "name": "Death Run 3D",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/deathrun3d.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/deathrun3d.html"
+  },
+  {
+    "name": "Deltarune",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/deltarune.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/deltarunegame.html"
+  },
+  {
+    "name": "Deltatraveler",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/deltatraveler.webp",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/deltatravelergame.html"
+  },
+  {
+    "name": "Destiny Run 3D",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/destinyrun3d.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/destinyrun3d.html"
+  },
+  {
+    "name": "Destroy The Car 3D",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/destroythecar3d.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/destroythecar3d.html"
+  },
+  {
+    "name": "Diablo",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/diablo.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/diablo1.html"
+  },
+  {
+    "name": "Diamond Seeker",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/diamondseeker.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/diamondseeker.html"
+  },
+  {
+    "name": "Dice a Million",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/diceamillion.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/diceamillion.html"
+  },
+  {
+    "name": "Dig Deep",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/digdeep.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/digdeep.html"
+  },
+  {
+    "name": "Do NOT Take This Cat Home",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/donottakethiscathome.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/donottakethiscathome.html"
+  },
+  {
+    "name": "Doge Miner",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/dogeminer.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/dogeminer.html"
+  },
+  {
+    "name": "Doge Miner 2",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/dogeminer2.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/dogeminer2.html"
+  },
+  {
+    "name": "Doki Doki Literature Club",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/ddlc.webp",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/ddlc.html"
+  },
+  {
+    "name": "Donkey Kong",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/donkeykong.webp",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/donkeykong.html"
+  },
+  {
+    "name": "DONT YOU LECTURE ME",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/dontyoulectureme.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/dontyoulectureme.html"
+  },
+  {
+    "name": "Doom 1",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/doom1.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/doom1.html"
+  },
+  {
+    "name": "Doom 2",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/doom2.webp",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/doom2.html"
+  },
+  {
+    "name": "Doom 3",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/doom3.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/doom3.html"
+  },
+  {
+    "name": "Doom 64",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/doom64.jpg",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/doom64.html"
+  },
+  {
+    "name": "Doodle Jump",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/doodlejump.jpg",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/doodlejump.html"
+  },
+  {
+    "name": "Dragon vs Bricks",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/dragonvsbricks.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/dragonvsbricks.html"
+  },
+  {
+    "name": "Draw Climber",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/drawclimber.jpg",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/drawclimber.html"
+  },
+  {
+    "name": "Draw Joust",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/drawjoust.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/drawjoust.html"
+  },
+  {
+    "name": "Draw the Hill",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/drawthehill.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/drawthehill.html"
+  },
+  {
+    "name": "Draw the Line",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/drawtheline.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/drawtheline.html"
+  },
+  {
+    "name": "Dreadhead Parkour",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/dreadheadparkour.jpg",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/dreadheadparkour.html"
+  },
+  {
+    "name": "Drift Boss",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/driftboss.jpg",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/driftboss.html"
+  },
+  {
+    "name": "Drift Hunters",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/drifthunters.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/drifthunters.html"
+  },
+  {
+    "name": "Drive Mad",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/drivemad.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/drivemad.html"
+  },
+  {
+    "name": "Driven Wild",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/drivenwild.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/drivenwild.html"
+  },
+  {
+    "name": "Duck Life 1",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/ducklife1.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/ducklife1.html"
+  },
+  {
+    "name": "Duck Life 2",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/ducklife2.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/ducklife2.html"
+  },
+  {
+    "name": "Duck Life 3",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/ducklife3.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/ducklife3.html"
+  },
+  {
+    "name": "Duck Life 4",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/ducklife4.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/ducklife4.html"
+  },
+  {
+    "name": "Duck Life 5",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/ducklife5.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/ducklife5.html"
+  },
+  {
+    "name": "Duck Life 6: Space",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/ducklife6space.jpg",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/ducklife6space.html"
+  },
+  {
+    "name": "Duck Life 7: Battle",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/ducklife7battle.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/ducklife7battle.html"
+  },
+  {
+    "name": "Duck Life 8",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/ducklife8.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/ducklife8.html"
+  },
+  {
+    "name": "Dumb Ways To Die",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/dumbwaystodie.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/dumbwaystodie.html"
+  },
+  {
+    "name": "Eggy Car",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/eggycar.jpg",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/eggycar.html"
+  },
+  {
+    "name": "Elastic Man",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/elasticman.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/elasticman.html"
+  },
+  {
+    "name": "Endoparasitic",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/endoparasitic.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/endoparasiticgame.html"
+  },
+  {
+    "name": "Endoparasitic 2",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/endoparasitic2.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/endoparasitic2.html"
+  },
+  {
+    "name": "Endroll",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/endroll.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/endrollgame.html"
+  },
+  {
+    "name": "Escape Road",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/escaperoad.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/escaperoad.html"
+  },
+  {
+    "name": "Escape Road 2",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/escaperoad2.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/escaperoad2.html"
+  },
+  {
+    "name": "Evil Glitch",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/evilglitch.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/evilglitch.html"
+  },
+  {
+    "name": "Evolving Bombs 3D",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/evolvingbombs3d.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/evolvingbombs3d.html"
+  },
+  {
+    "name": "EvoWars.io",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/evowarsio.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/evowarsio.html"
+  },
+  {
+    "name": "Fallout",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/fallout1.jpg",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/fallout1.html"
+  },
+  {
+    "name": "Fallout 2",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/fallout2.jpg",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/fallout2.html"
+  },
+  {
+    "name": "Fancy Pants Adventure",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/fancypantsadventure.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/fancypantsadventure.html"
+  },
+  {
+    "name": "Fancy Pants Adventure 2",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/fancypantsadventure2.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/fancypantsadventure2.html"
+  },
+  {
+    "name": "Fancy Pants Adventure 3",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/fancypantsadventure3.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/fancypantsadventure3.html"
+  },
+  {
+    "name": "Fancy Pants Adventure 4 Part 1",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/fancypantsadventure4part1.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/fancypantsadventure4part1.html"
+  },
+  {
+    "name": "Fancy Pants Adventure 4 Part 2",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/fancypantsadventure4part2.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/fancypantsadventure4part2.html"
+  },
+  {
+    "name": "Fashion Battle",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/fashionbattle.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/fashionbattle.html"
+  },
+  {
+    "name": "Fears to Fathom: Home Alone",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/fearstofathom.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/fearstofathom.html"
+  },
+  {
+    "name": "Final Earth 2",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/finalearth2.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/finalearth2.html"
+  },
+  {
+    "name": "Final Fantasy VII",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/finalfantasyvii.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/finalfantasyvii.html"
+  },
+  {
+    "name": "Find the Alien",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/findthealien.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/findthealien.html"
+  },
+  {
+    "name": "Fire and Frost Master",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/fireandfrostmaster.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/fireandfrostmaster.html"
+  },
+  {
+    "name": "Fireboy and Watergirl",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/fireboyandwatergirl.jpg",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/fireboyandwatergirl.html"
+  },
+  {
+    "name": "Fireboy and Watergirl 2",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/fireboyandwatergirl2.jpg",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/fireboyandwatergirl2.html"
+  },
+  {
+    "name": "Fireboy and Watergirl 3",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/fireboyandwatergirl3.jpg",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/fireboyandwatergirl3.html"
+  },
+  {
+    "name": "FISH",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/fish.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/fishgame.html"
+  },
+  {
+    "name": "Fitness Empire",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/fitnessempire.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/fitnessempire.html"
+  },
+  {
+    "name": "Five Nights at Candy's",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/fivenightsatcandys.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/fivenightsatcandys.html"
+  },
+  {
+    "name": "Five Nights at Candy's 2",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/fivenightsatcandys2.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/fivenightsatcandys2.html"
+  },
+  {
+    "name": "Five Nights at Epsteins",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/fivenightsatepsteins.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/fivenightsatepsteins.html"
+  },
+  {
+    "name": "Five Nights at Freddy's",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/fnaf.jpg",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/fnaf.html"
+  },
+  {
+    "name": "Five Nights at Freddy's 2",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/fnaf2.webp",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/fnaf2.html"
+  },
+  {
+    "name": "Five Nights at Freddy's 3",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/fnaf3.jpg",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/fnaf3.html"
+  },
+  {
+    "name": "Five Nights at Freddy's 4",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/fnaf4.webp",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/fnaf4.html"
+  },
+  {
+    "name": "Five Nights at Freddy's 4: Halloween Edition",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/fnaf4halloween.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/fnaf4halloween.html"
+  },
+  {
+    "name": "Five Nights at Freddy's: Pizza Simulator",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/fnafpizzasim.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/fnafpizzasim.html"
+  },
+  {
+    "name": "Five Nights at Freddy's: Sister Location",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/fnafsisterlocation.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/fnafsisterlocation.html"
+  },
+  {
+    "name": "Five Nights at Freddy's: Ultimate Custom Night",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/fnafucn.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/fnafucn.html"
+  },
+  {
+    "name": "Five Nights at Freddy's World",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/fnafworld.jpg",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/fnafworld.html"
+  },
+  {
+    "name": "Five Nights at Winstons",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/fivenightsatwinstons.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/fivenightsatwinstons.html"
+  },
+  {
+    "name": "Flappy Bird",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/flappybird.jpg",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/flappybird.html"
+  },
+  {
+    "name": "Flappy Dunk",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/flappydunk.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/flappydunk.html"
+  },
+  {
+    "name": "Flick Goal",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/flickgoal.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/flickgoal.html"
+  },
+  {
+    "name": "Flip Master",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/flipmaster.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/flipmaster.html"
+  },
+  {
+    "name": "Flying Gorilla 3D",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/flyinggorilla3d.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/flyinggorilla3d.html"
+  },
+  {
+    "name": "Football Bros",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/footballbros.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/footballbros.html"
+  },
+  {
+    "name": "Fork n Sausage",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/forknsausage.jpg",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/forknsausage.html"
+  },
+  {
+    "name": "Fortzone Battle Royale",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/fortzonebattleroyale.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/fortzonebattleroyale.html"
+  },
+  {
+    "name": "Friday Night Funkin",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/fnf.webp",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/fnf.html"
+  },
+  {
+    "name": "Friday Night Funkin' Vs. Hatsune Miku",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/fnfvshatsunemiku.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/fnfvshatsunemiku.html"
+  },
+  {
+    "name": "Fruit Ninja",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/fruitninja.webp",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/fruitninja.html"
+  },
+  {
+    "name": "Funny Shooter 2",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/funnyshooter2.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/funnyshooter2.html"
+  },
+  {
+    "name": "Fused 240",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/fused240.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/fused240.html"
+  },
+  {
+    "name": "Gacha Life",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/gachalife.webp",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/gachalife.html"
+  },
+  {
+    "name": "Gacha Verse",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/gachaverse.webp",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/gachaverse.html"
+  },
+  {
+    "name": "Generic Fighter Maybe",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/genericfightermaybe.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/genericfightermaybe.html"
+  },
+  {
+    "name": "Geometry Dash Lite",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/geometrydashlite.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/geometrydashlite.html"
+  },
+  {
+    "name": "Geometry Dash Subzero",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/geometrydashsubzero.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/geometrydashsubzero.html"
+  },
+  {
+    "name": "Geometry Dash World",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/geometrydashworld.webp",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/geometrydashworld.html"
+  },
+  {
+    "name": "Get Yoked",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/getyoked.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/getyoked.html"
+  },
+  {
+    "name": "Getaway Shootout",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/getawayshootout.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/getawayshootout.html"
+  },
+  {
+    "name": "Getting Over It",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/gettingoverit.jpg",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/gettingoverit.html"
+  },
+  {
+    "name": "Giant Wanted",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/giantwanted.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/giantwanted.html"
+  },
+  {
+    "name": "Gimme The Airpod",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/gimmetheairpod.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/gimmetheairpod.html"
+  },
+  {
+    "name": "Gladihoppers",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/gladihoppers.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/gladihoppersgame.html"
+  },
+  {
+    "name": "Gobble",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/gobble.jpg",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/gobblegame.html"
+  },
+  {
+    "name": "Goblin Goopmaxxing",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/goblingoopmaxxing.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/goblingoopmaxxing.html"
+  },
+  {
+    "name": "God's Flesh",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/godsflesh.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/godsflesh.html"
+  },
+  {
+    "name": "Godzilla Daikaiju Battle Royale",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/godzilla daikaiju battle royale.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/godzilladaikaijubattleroyale.html"
+  },
+  {
+    "name": "Going Balls",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/goingballs.jpg",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/goingballs.html"
+  },
+  {
+    "name": "Google Baseball",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/googlebaseball.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/googlebaseball.html"
+  },
+  {
+    "name": "Google Dino",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/googledino.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/googledino.html"
+  },
+  {
+    "name": "Google Feud",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/googlefeud.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/googlefeud.html"
+  },
+  {
+    "name": "Gorilla Tag",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/gorillatag.jpg",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/gorillatag.html"
+  },
+  {
+    "name": "Grand Theft Auto",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/gta1.jpg",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/gta1.html"
+  },
+  {
+    "name": "Grand Theft Auto 2",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/gta2.jpg",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/gta2.html"
+  },
+  {
+    "name": "Grand Theft Auto III",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/grandtheftautoiii.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/grandtheftautoiii.html"
+  },
+  {
+    "name": "Grand Theft Auto IV",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/grandtheftautoiv.jpg",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/grandtheftautoiv.html"
+  },
+  {
+    "name": "Grand Theft Auto San Andreas",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/grandtheftautosanandreas.jpg",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/grandtheftautosanandreas.html"
+  },
+  {
+    "name": "Grand Theft Auto: Advance",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/gtaadvance.webp",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/gtaadvance.html"
+  },
+  {
+    "name": "Grand Theft Auto: Chinatown Wars",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/gtachinatownwars.jpg",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/gtachinatownwars.html"
+  },
+  {
+    "name": "Grand Theft Auto: Vice City",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/gtavicecity.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/gtavicecity.html"
+  },
+  {
+    "name": "Granny",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/granny.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/grannygame.html"
+  },
+  {
+    "name": "Granny 2",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/granny2.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/granny2.html"
+  },
+  {
+    "name": "Granny 3",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/granny3.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/granny3.html"
+  },
+  {
+    "name": "groon groon, babey!",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/groongroonbabey.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/groongroonbabey.html"
+  },
+  {
+    "name": "Growden.io",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/growdenio.jpg",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/growdenio.html"
+  },
+  {
+    "name": "Guess Their Answer",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/guesstheiranswer.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/guesstheiranswer.html"
+  },
+  {
+    "name": "Gun Clone",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/gunclone.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/gunclone.html"
+  },
+  {
+    "name": "Gun Runner",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/gunrunner.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/gunrunner.html"
+  },
+  {
+    "name": "Gunspin",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/gunspin.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/gunspingame.html"
+  },
+  {
+    "name": "Half-life",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/halflife.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/halflife.html"
+  },
+  {
+    "name": "Half Life: Opposing Force",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/halflifeopposingforce.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/halflifeopposingforce.html"
+  },
+  {
+    "name": "Happy Sheepies",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/happysheepies.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/happysheepies.html"
+  },
+  {
+    "name": "Happy Wheels",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/happywheels.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/happywheels.html"
+  },
+  {
+    "name": "Harvest.io",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/harvestio.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/harvestio.html"
+  },
+  {
+    "name": "Helix Jump",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/helixjump.jpg",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/helixjump.html"
+  },
+  {
+    "name": "Henry Stickmin: Breaking the Bank",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/breakingthebank.jpg",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/breakingthebank.html"
+  },
+  {
+    "name": "Henry Stickmin: Escaping the Prison",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/escapingtheprison.jpg",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/escapingtheprison.html"
+  },
+  {
+    "name": "Henry Stickmin: Fleeing the Complex",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/fleeingthecomplex.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/fleeingthecomplex.html"
+  },
+  {
+    "name": "Henry Stickmin: Infiltrating the Airship",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/infiltratingtheairship.jpg",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/infiltratingtheairship.html"
+  },
+  {
+    "name": "Henry Stickmin: Stealing the Diamond",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/stealingthediamond.jpg",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/stealingthediamond.html"
+  },
+  {
+    "name": "Hide N Seek",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/hidenseek.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/hidenseek.html"
+  },
+  {
+    "name": "High Heels",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/highheels.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/highheels.html"
+  },
+  {
+    "name": "Highway Racer",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/highwayracer.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/highwayracer.html"
+  },
+  {
+    "name": "Highway Racer 2",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/highwayracer2.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/highwayracer2.html"
+  },
+  {
+    "name": "Highway Racer 2 REMASTERED",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/highwayracer2remastered.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/highwayracer2remastered.html"
+  },
+  {
+    "name": "Hill Climb Racing Lite",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/hillclimbracing.jpg",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/hillclimbracing.html"
+  },
+  {
+    "name": "Hollow Knight",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/hollowknight.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/hollowknight.html"
+  },
+  {
+    "name": "Hollow Knight: Silksong",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/hollowknightsilksong.jpg",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/hollowknightsilksong.html"
+  },
+  {
+    "name": "Hotline Miami",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/hotlinemiami.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/hotlinemiami.html"
+  },
+  {
+    "name": "House of Hazards",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/houseofhazards.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/houseofhazards.html"
+  },
+  {
+    "name": "Hula Hoop Race",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/hulahooprace.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/hulahooprace.html"
+  },
+  {
+    "name": "Human Expenditure Program",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/humanexpenditureprogram.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/humanexpenditureprogram.html"
+  },
+  {
+    "name": "Hypper Sandbox",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/hyppersandbox.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/hyppersandbox.html"
+  },
+  {
+    "name": "I Have No Mouth And I Must Scream",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/ihavenomouthandimustscream.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/ihavenomouthandimustscream.html"
+  },
+  {
+    "name": "i woke up next to you again",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/iwokeupnexttoyouagain.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/iwokeupnexttoyouagain.html"
+  },
+  {
+    "name": "Ice Dodo",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/icedodo.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/icedodo.html"
+  },
+  {
+    "name": "Idle Breakout",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/idlebreakout.jpg",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/idlebreakout.html"
+  },
+  {
+    "name": "Idle Dice",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/idledice.jpg",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/idledice.html"
+  },
+  {
+    "name": "Idle Lumber Inc",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/idlelumberinc.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/idlelumberinc.html"
+  },
+  {
+    "name": "Idle Mining Empire",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/idleminingempire.jpg",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/idleminingempire.html"
+  },
+  {
+    "name": "Infinite Craft",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/infinitecraft.jpg",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/infinitecraft.html"
+  },
+  {
+    "name": "Infinimoes",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/infinimoes.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/infinimoesgame.html"
+  },
+  {
+    "name": "Iron Lung",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/ironlung.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/ironlung.html"
+  },
+  {
+    "name": "Jelly Drift",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/jellydrift.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/jellydrift.html"
+  },
+  {
+    "name": "Jelly Mario",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/jellymario.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/jellymario.html"
+  },
+  {
+    "name": "Jelly Restaurant",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/jellyrestaurant.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/jellyrestaurant.html"
+  },
+  {
+    "name": "Jetpack Joyride",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/jetpackjoyride.jpg",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/jetpackjoyride.html"
+  },
+  {
+    "name": "Johnny Trigger",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/johnnytrigger.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/johnnytrigger.html"
+  },
+  {
+    "name": "Jojo's Bizarre Adventure",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/jjba.jpg",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/jjba.html"
+  },
+  {
+    "name": "Journey Downhill",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/journeydownhill.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/journeydownhill.html"
+  },
+  {
+    "name": "JustFall.lol",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/justfalllol.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/justfalllol.html"
+  },
+  {
+    "name": "Kaji Run",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/kajirun.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/kajirun.html"
+  },
+  {
+    "name": "Karlson",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/karlson.jpg",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/karlsongame.html"
+  },
+  {
+    "name": "Kindergarten",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/kindergarten1.jpg",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/kindergarten1.html"
+  },
+  {
+    "name": "Kindergarten 2",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/kindergarten2.jpg",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/kindergarten2.html"
+  },
+  {
+    "name": "Kindergarten 3",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/kindergarten3.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/kindergarten3.html"
+  },
+  {
+    "name": "Kirby Soft & Wet",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/kirbysoftandwet.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/kirbysoftandwet.html"
+  },
+  {
+    "name": "Kirby's Adventure",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/kirbysadventure.webp",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/kirbysadventure.html"
+  },
+  {
+    "name": "Kitchen Bazar",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/kitchenbazar.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/kitchenbazar.html"
+  },
+  {
+    "name": "Kitty Toy",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/kittytoy.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/kittytoy.html"
+  },
+  {
+    "name": "Kour.io",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/kourio.jpg",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/kourio.html"
+  },
+  {
+    "name": "Laceys Flash Games",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/laceysflashgames.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/laceysflashgames.html"
+  },
+  {
+    "name": "Layers Roll",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/layersroll.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/layersroll.html"
+  },
+  {
+    "name": "Lazy Jumper",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/lazyjumper.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/lazyjumper.html"
+  },
+  {
+    "name": "Learn to Fly",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/learntofly.jpg",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/learntofly.html"
+  },
+  {
+    "name": "Learn to Fly 2",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/learntofly2.jpg",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/learntofly2.html"
+  },
+  {
+    "name": "Learn to Fly 3",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/learntofly3.webp",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/learntofly3.html"
+  },
+  {
+    "name": "Learn to Fly Idle",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/learntoflyidle.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/learntoflyidle.html"
+  },
+  {
+    "name": "Lego Batman 2 DC Superheroes",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/legobatman2dcsuperheroes.jpg",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/legobatman2dcsuperheroes.html"
+  },
+  {
+    "name": "Lego Batman The Video Game",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/legobatmanthevideogame.webp",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/legobatmanthevideogame.html"
+  },
+  {
+    "name": "Level Devil",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/leveldevil.jpg",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/leveldevil.html"
+  },
+  {
+    "name": "Line Rider",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/linerider.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/linerider.html"
+  },
+  {
+    "name": "Little Alchemy",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/littlealchemy.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/littlealchemy.html"
+  },
+  {
+    "name": "Little Alchemy 2",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/littlealchemy2.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/littlealchemy2.html"
+  },
+  {
+    "name": "Little Big Planet",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/littlebigplanet.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/littlebigplanet.html"
+  },
+  {
+    "name": "Little Runmo",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/littlerunmo.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/littlerunmo.html"
+  },
+  {
+    "name": "Look Outside",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/lookoutside.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/lookoutside.html"
+  },
+  {
+    "name": "Love Letters",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/loveletters.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/loveletters.html"
+  },
+  {
+    "name": "Madalin Stunt Cars 2",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/madalinstuntcars2.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/madalinstuntcars2.html"
+  },
+  {
+    "name": "Madalin Stunt Cars 3",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/madalinstuntcars3.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/madalinstuntcars3.html"
+  },
+  {
+    "name": "Madness Combat: Project Nexus (Classic)",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/madnesscombatprojectnexus.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/madnesscombatprojectnexus.html"
+  },
+  {
+    "name": "Magic Tiles 3",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/magictiles3.jpg",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/magictiles3.html"
+  },
+  {
+    "name": "Make a Superboat",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/makeasuperboat.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/makeasuperboat.html"
+  },
+  {
+    "name": "Makeover Run",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/makeoverrun.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/makeoverrun.html"
+  },
+  {
+    "name": "Man Runner 2048",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/manrunner2048.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/manrunner2048.html"
+  },
+  {
+    "name": "Mario Tennis",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/mariotennis.jpg",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/mariotennis.html"
+  },
+  {
+    "name": "Max Payne",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/maxpayne.jpg",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/maxpayne.html"
+  },
+  {
+    "name": "Maze Speedrun",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/mazespeedrun.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/mazespeedrun.html"
+  },
+  {
+    "name": "Meatboy",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/meatboy.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/meatboygame.html"
+  },
+  {
+    "name": "Mega Car Jumps",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/megacarjumps.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/megacarjumps.html"
+  },
+  {
+    "name": "Melon Playground",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/melonplayground.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/melonplayground.html"
+  },
+  {
+    "name": "Merge Harvest",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/mergeharvest.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/mergeharvest.html"
+  },
+  {
+    "name": "Metal Gear Solid",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/metalgearsolid.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/metalgearsolid.html"
+  },
+  {
+    "name": "Metroid Zero Mission",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/metroidzeromission.jpg",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/metroidzeromission.html"
+  },
+  {
+    "name": "Midnight Shift",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/midnightshift.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/midnightshift.html"
+  },
+  {
+    "name": "Milk Inside a Bag of Milk Inside a Bag of Milk",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/milkinsideabagofmilk.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/milkinsideabagofmilk.html"
+  },
+  {
+    "name": "Milk Outside a Bag of Milk Outside a Bag of Milk",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/milkoutsideabagofmilk.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/milkoutsideabagofmilk.html"
+  },
+  {
+    "name": "Mindwave",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/mindwave.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/mindwavegame.html"
+  },
+  {
+    "name": "Minecraft 1.5.2",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/minecraft.webp",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/minecraft1.5.2.html"
+  },
+  {
+    "name": "Minecraft 1.7.3 Beta",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/minecraft.webp",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/minecraft1.7.3.html"
+  },
+  {
+    "name": "Minecraft 1.8.8",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/minecraft.webp",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/minecraft1.8.8.html"
+  },
+  {
+    "name": "Minecraft 1.12.2",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/minecraft.webp",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/minecraft1.12.2.html"
+  },
+  {
+    "name": "Minecraft 1.21.4",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/minecraft.webp",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/minecraft1.21.4.html"
+  },
+  {
+    "name": "Minecraft Alpha 1.2.6",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/minecraft.webp",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/minecraftalpha1.2.6.html"
+  },
+  {
+    "name": "Minecraft Beta 1.3",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/minecraft.webp",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/minecraftbeta1.3.html"
+  },
+  {
+    "name": "Minecraft Indev",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/minecraft.webp",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/minecraftindev.html"
+  },
+  {
+    "name": "Minecraft Pocket Edition",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/minecraftpocketedition.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/minecraftpocketedition.html"
+  },
+  {
+    "name": "Mini Crosswords",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/minicrosswords.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/minicrosswords.html"
+  },
+  {
+    "name": "Minesweeper Mania",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/minesweepermania.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/minesweepermania.html"
+  },
+  {
+    "name": "Minesweeper Plus",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/minesweeperplus.jpg",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/minesweeperplus.html"
+  },
+  {
+    "name": "Mob Control",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/mobcontrol.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/mobcontrol.html"
+  },
+  {
+    "name": "Money Rush",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/moneyrush.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/moneyrush.html"
+  },
+  {
+    "name": "Monkey Mart",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/monkeymart.jpg",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/monkeymart.html"
+  },
+  {
+    "name": "Monster Box 3D",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/monsterbox3d.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/monsterbox3d.html"
+  },
+  {
+    "name": "Monster Tracks",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/monstertracks.jpg",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/monstertracks.html"
+  },
+  {
+    "name": "Mortal Kombat Advance",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/mortalkombatadvance.jpg",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/mortalkombatadvance.html"
+  },
+  {
+    "name": "Moto X3M",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/motox3m.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/motox3m.html"
+  },
+  {
+    "name": "Moto X3M 2",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/motox3m2.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/motox3m2.html"
+  },
+  {
+    "name": "Moto X3M 3",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/motox3m3.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/motox3m3.html"
+  },
+  {
+    "name": "Moto X3M Pool Party",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/motox3mpoolparty.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/motox3mpoolparty.html"
+  },
+  {
+    "name": "Moto X3M Spooky",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/motox3mspooky.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/motox3mspooky.html"
+  },
+  {
+    "name": "Moto X3M Winter",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/motox3mwinter.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/motox3mwinter.html"
+  },
+  {
+    "name": "Mountain Bike Racer",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/mountainbikeracer.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/mountainbikeracer.html"
+  },
+  {
+    "name": "Mutilate a Doll 2",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/mutilateadoll2.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/mutilateadoll2.html"
+  },
+  {
+    "name": "myTeardrop",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/myteardrop.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/myteardropgame.html"
+  },
+  {
+    "name": "n-gon",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/ngon.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/ngon.html"
+  },
+  {
+    "name": "Nazi Zombies Portable",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/nzp.jpg",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/nzp.html"
+  },
+  {
+    "name": "Needy Streamer Overload",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/needystreameroverload.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/needystreameroverload.html"
+  },
+  {
+    "name": "New Super Mario Bros",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/newsupermariobros.jpg",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/newsupermariobros.html"
+  },
+  {
+    "name": "Newgrounds Rumble",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/newgroundsrumble.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/newgroundsrumble.html"
+  },
+  {
+    "name": "Nickelodeon Super Brawl 2",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/nickelodeonsuperbrawl2.webp",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/nickelodeonsuperbrawl2.html"
+  },
+  {
+    "name": "Ninja vs EvilCorp",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/ninjavsevilcorp.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/ninjavsevilcorp.html"
+  },
+  {
+    "name": "Nubby's Number Factory",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/nubbysnumberfactory.jpg",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/nubbysnumberfactory.html"
+  },
+  {
+    "name": "Nut Simulator",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/nutsimulator.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/nutsimulator.html"
+  },
+  {
+    "name": "Off",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/off.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/offgame.html"
+  },
+  {
+    "name": "Office Fight",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/officefight.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/officefight.html"
+  },
+  {
+    "name": "Offroad Mountain Bike",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/offroadmountainbike.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/offroadmountainbike.html"
+  },
+  {
+    "name": "Om Nom Run",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/omnomrun.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/omnomrun.html"
+  },
+  {
+    "name": "Omori",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/omori.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/omorigame.html"
+  },
+  {
+    "name": "One Piece",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/onepiece.jpg",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/onepiece.html"
+  },
+  {
+    "name": "One Piece Fighting",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/onepiecefighting.jpg",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/onepiecefighting.html"
+  },
+  {
+    "name": "OneShot",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/oneshot.jpg",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/oneshotgame.html"
+  },
+  {
+    "name": "Only Up",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/onlyup.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/onlyup.html"
+  },
+  {
+    "name": "Orange Roulette",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/orangeroulette.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/orangeroulette.html"
+  },
+  {
+    "name": "Oshi Oshi Punch!",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/oshioshipunch.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/oshioshipunch.html"
+  },
+  {
+    "name": "Osu!",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/osu.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/osu.html"
+  },
+  {
+    "name": "Outhold",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/outhold.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/outholdgame.html"
+  },
+  {
+    "name": "Overburden",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/overburden.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/overburdengame.html"
+  },
+  {
+    "name": "OvO",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/ovo1.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/ovo1.html"
+  },
+  {
+    "name": "OvO 2",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/ovo2.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/ovo2.html"
+  },
+  {
+    "name": "OvO 3 Dimensions",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/ovo3dimensions.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/ovo3dimensions.html"
+  },
+  {
+    "name": "Pac-Man",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/pacman.jpg",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/pacman.html"
+  },
+  {
+    "name": "Pac Man (Horror)",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/pacmanhorror.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/pacmanhorror.html"
+  },
+  {
+    "name": "Pac Man World",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/pacmanworld.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/pacmanworld.html"
+  },
+  {
+    "name": "Pac Man World 2",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/pacmanworld2.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/pacmanworld2.html"
+  },
+  {
+    "name": "Pac-Man Superfast",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/pacmansuperfast.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/pacmanworld.html"
+  },
+  {
+    "name": "Papas Bakeria",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/papasbakeria.webp",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/papasbakeria.html"
+  },
+  {
+    "name": "Papas Burgeria",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/papasburgeria.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/papasburgeria.html"
+  },
+  {
+    "name": "Papas Cheeseria",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/papascheeseria.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/papascheeseria.html"
+  },
+  {
+    "name": "Papas Cupcakeria",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/papascupcakeria.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/papascupcakeria.html"
+  },
+  {
+    "name": "Papas Donuteria",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/papasdonuteria.webp",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/papasdonuteria.html"
+  },
+  {
+    "name": "Papas Freezeria",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/papasfreezeria.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/papasfreezeria.html"
+  },
+  {
+    "name": "Papas Hotdoggeria",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/papashotdoggeria.jpg",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/papashotdoggeria.html"
+  },
+  {
+    "name": "Papas Pancakeria",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/papaspancakeria.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/papaspancakeria.html"
+  },
+  {
+    "name": "Papas Pastaria",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/papaspastaria.webp",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/papaspastaria.html"
+  },
+  {
+    "name": "Papas Pizzeria",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/papaspizzeria.webp",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/papaspizzeria.html"
+  },
+  {
+    "name": "Papas Scooperia",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/papasscooperia.webp",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/papasscooperia.html"
+  },
+  {
+    "name": "Papas Sushiria",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/papassushiria.webp",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/papassushiria.html"
+  },
+  {
+    "name": "Papas Taco Mia",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/papastacomia.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/papastacomia.html"
+  },
+  {
+    "name": "Papas Wingeria",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/papaswingeria.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/papaswingeria.html"
+  },
+  {
+    "name": "Paper Mario",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/papermario.jpg",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/papermario.html"
+  },
+  {
+    "name": "Paper.io 2",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/paper.io2.jpg",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/paper.io2.html"
+  },
+  {
+    "name": "Papers Please",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/papersplease.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/papersplease.html"
+  },
+  {
+    "name": "Papery Planes",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/paperyplanes.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/paperyplanes.html"
+  },
+  {
+    "name": "Parappa The Rapper",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/parappatherapper.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/parappatherapper.html"
+  },
+  {
+    "name": "Parking Fury 3D",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/parkingfury3d.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/parkingfury3d.html"
+  },
+  {
+    "name": "Parking Rush",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/parkingrush.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/parkingrush.html"
+  },
+  {
+    "name": "Peaks of Yore",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/peaksofyore.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/peaksofyore.html"
+  },
+  {
+    "name": "Peggle",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/peggle.jpg",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/pegglegame.html"
+  },
+  {
+    "name": "People Playground",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/peopleplayground.jpg",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/peopleplayground.html"
+  },
+  {
+    "name": "Persona 2",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/persona2.jpg",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/persona2.html"
+  },
+  {
+    "name": "Pizza Tower",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/pizzatower.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/pizzatower.html"
+  },
+  {
+    "name": "Pizza Tower: Scoutdigo",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/pizzatowerscoutdigo.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/pizzatowerscoutdigo.html"
+  },
+  {
+    "name": "Pixel Gun Survival",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/pixelgunsurvival.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/pixelgunsurvival.html"
+  },
+  {
+    "name": "Pixel Shooter",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/pixelshooter.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/pixelshooter.html"
+  },
+  {
+    "name": "Plants VS Zombies",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/pvz.jpg",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/pvz.html"
+  },
+  {
+    "name": "Plants vs Zombies 2: Gardenless",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/pvz2.webp",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/pvz2.html"
+  },
+  {
+    "name": "Please Dont Touch Anything",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/pleasedonttouchanything.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/pleasedonttouchanything.html"
+  },
+  {
+    "name": "Plinko",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/plinko.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/plinkogame.html"
+  },
+  {
+    "name": "Pokey Ball",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/pokeyball.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/pokeyball.html"
+  },
+  {
+    "name": "Pokemon Black",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/pokemonblack.webp",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/pokemonblack.html"
+  },
+  {
+    "name": "Pokemon Black 2",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/pokemonblack2.jpg",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/pokemonblack2.html"
+  },
+  {
+    "name": "Pokemon Blue",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/pokemonblue.jpg",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/pokemonblue.html"
+  },
+  {
+    "name": "Pokemon Crystal",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/pokemoncrystal.jpg",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/pokemoncrystal.html"
+  },
+  {
+    "name": "Pokemon Diamond",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/pokemondiamond.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/pokemondiamond.html"
+  },
+  {
+    "name": "Pokemon Dreamstone Mysteries",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/pokemondreamstonemysteries.jpg",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/pokemondreamstonemysteries.html"
+  },
+  {
+    "name": "Pokemon Emerald",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/pokemonemerald.jpg",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/pokemonemerald.html"
+  },
+  {
+    "name": "Pokemon Fire Red",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/pokemonfirered.jpg",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/pokemonfirered.html"
+  },
+  {
+    "name": "Pokemon Flora Sky",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/pokemonflorasky.webp",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/pokemonflorasky.html"
+  },
+  {
+    "name": "Pokemon Gaia",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/pokemongaia.jpg",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/pokemongaia.html"
+  },
+  {
+    "name": "Pokemon Gold",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/pokemongold.webp",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/pokemongold.html"
+  },
+  {
+    "name": "Pokemon Heart Gold",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/pokemonheartgold.jpg",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/pokemonheartgold.html"
+  },
+  {
+    "name": "Pokemon Leaf Green",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/pokemonleafgreen.jpg",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/pokemonleafgreen.html"
+  },
+  {
+    "name": "Pokemon Mega Moemon",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/pokemonmegamoemon.jpg",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/pokemonmegamoemon.html"
+  },
+  {
+    "name": "Pokemon Pearl",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/pokemonpearl.jpg",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/pokemonpearl.html"
+  },
+  {
+    "name": "Pokemon Platinum",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/pokemonplatinum.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/pokemonplatinum.html"
+  },
+  {
+    "name": "Pokemon Quetzal",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/pokemonquetzal.jpg",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/pokemonquetzal.html"
+  },
+  {
+    "name": "Pokemon Red",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/pokemonred.jpg",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/pokemonred.html"
+  },
+  {
+    "name": "Pokemon Ruby",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/pokemonruby.webp",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/pokemonruby.html"
+  },
+  {
+    "name": "Pokemon Sapphire",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/pokemonsapphire.jpg",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/pokemonsapphire.html"
+  },
+  {
+    "name": "Pokemon Shiny Gold Sigma",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/pokemonshinygoldsigma.jpg",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/pokemonshinygoldsigma.html"
+  },
+  {
+    "name": "Pokemon Silver",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/pokemonsilver.jpg",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/pokemonsilver.html"
+  },
+  {
+    "name": "Pokemon Snap",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/pokemonsnap.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/pokemonsnap.html"
+  },
+  {
+    "name": "Pokemon Soul Silver",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/pokemonsoulsilver.jpg",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/pokemonsoulsilver.html"
+  },
+  {
+    "name": "Pokemon Stadium",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/pokemonstadium.jpg",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/pokemonstadium.html"
+  },
+  {
+    "name": "Pokemon Stadium 2",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/pokemonstadium2.jpg",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/pokemonstadium2.html"
+  },
+  {
+    "name": "Pokemon Sword and Shield Ultimate Plus",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/pokemonswordandshieldultimateplus.jpg",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/pokemonswordandshieldultimateplus.html"
+  },
+  {
+    "name": "Pokemon Tower Defense",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/pokemontowerdefense.webp",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/pokemontowerdefense.html"
+  },
+  {
+    "name": "Pokemon Ultra Violet",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/pokemonultraviolet.jpg",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/pokemonultraviolet.html"
+  },
+  {
+    "name": "Pokemon Unbound",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/pokemonunbound.jpg",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/pokemonunbound.html"
+  },
+  {
+    "name": "Pokemon White",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/pokemonwhite.jpg",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/pokemonwhite.html"
+  },
+  {
+    "name": "Pokemon White 2",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/pokemonwhite2.jpg",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/pokemonwhite2.html"
+  },
+  {
+    "name": "Pokemon Yellow",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/pokemonyellow.jpg",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/pokemonyellow.html"
+  },
+  {
+    "name": "Polytrack",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/polytrack.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/polytrack.html"
+  },
+  {
+    "name": "PortaBoy+",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/portaboy.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/portaboy.html"
+  },
+  {
+    "name": "Portal",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/portal.jpg",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/portalgame.html"
+  },
+  {
+    "name": "Postal",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/postal.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/postalgame.html"
+  },
+  {
+    "name": "Pottery Master",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/potterymaster.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/potterymaster.html"
+  },
+  {
+    "name": "Pou",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/pou.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/pougame.html"
+  },
+  {
+    "name": "Power Hover",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/powerhover.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/powerhover.html"
+  },
+  {
+    "name": "Pretend Its Not There",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/pretenditsnotthere.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/pretenditsnotthere.html"
+  },
+  {
+    "name": "Protektor",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/protektor.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/protektorgame.html"
+  },
+  {
+    "name": "Puppet Master",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/puppetmaster.jpg",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/puppetmaster.html"
+  },
+  {
+    "name": "Quake III Arena",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/quake3arena.jpg",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/quake3arena.html"
+  },
+  {
+    "name": "Race Master 3D",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/racemaster3d.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/racemaster3d.html"
+  },
+  {
+    "name": "Raft",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/raft.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/raftgame.html"
+  },
+  {
+    "name": "Raft Wars",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/raftwars.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/raftwars.html"
+  },
+  {
+    "name": "Raft Wars 2",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/raftwars2.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/raftwars2.html"
+  },
+  {
+    "name": "Ragdoll Archers",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/ragdollarchers.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/ragdollarchers.html"
+  },
+  {
+    "name": "Ragdoll Hit",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/ragdollhit.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/ragdollhit.html"
+  },
+  {
+    "name": "Rainbow Obby",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/rainbowobby.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/rainbowobby.html"
+  },
+  {
+    "name": "Real Flight Simulator",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/realflightsimulator.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/realflightsimulator.html"
+  },
+  {
+    "name": "Recoil",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/recoil.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/recoilgame.html"
+  },
+  {
+    "name": "Red Ball",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/redball.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/redball.html"
+  },
+  {
+    "name": "Red Ball 2",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/redball2.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/redball2.html"
+  },
+  {
+    "name": "Red Ball 3",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/redball3.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/redball3.html"
+  },
+  {
+    "name": "Red Ball 4",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/redball4.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/redball4.html"
+  },
+  {
+    "name": "Red Ball 4 Vol. 2",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/redball4vol2.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/redball4vol2.html"
+  },
+  {
+    "name": "Red Ball 4 Vol. 3",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/redball4vol3.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/redball4vol3.html"
+  },
+  {
+    "name": "Re:Run",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/rerun.jpg",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/rerun.html"
+  },
+  {
+    "name": "R.E.P.O",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/repo.webp",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/repo.html"
+  },
+  {
+    "name": "Resident Evil",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/residentevil.jpg",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/residentevil.html"
+  },
+  {
+    "name": "Resident Evil 2",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/residentevil2.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/residentevil2.html"
+  },
+  {
+    "name": "Resident Evil 3",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/residentevil3.jpg",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/residentevil3.html"
+  },
+  {
+    "name": "Retro Bowl",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/retrobowl.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/retrobowl.html"
+  },
+  {
+    "name": "Retro Bowl College",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/retrobowlcollege.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/retrobowlcollege.html"
+  },
+  {
+    "name": "Revelations: Persona",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/persona1.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/revelationspersona.html"
+  },
+  {
+    "name": "Rich Run 3D",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/richrun3d.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/richrun3d.html"
+  },
+  {
+    "name": "Riddle School",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/riddleschool.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/riddleschool.html"
+  },
+  {
+    "name": "Riddle School 2",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/riddleschool2.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/riddleschool2.html"
+  },
+  {
+    "name": "Riddle School 3",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/riddleschool3.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/riddleschool3.html"
+  },
+  {
+    "name": "Riddle School 4",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/riddleschool4.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/riddleschool4.html"
+  },
+  {
+    "name": "Riddle School 5",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/riddleschool5.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/riddleschool5.html"
+  },
+  {
+    "name": "Riddle Transfer",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/riddletransfer.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/riddletransfer.html"
+  },
+  {
+    "name": "Riddle Transfer 2",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/riddletransfer2.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/riddletransfer2.html"
+  },
+  {
+    "name": "RigBMX",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/rigbmx.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/rigbmxgame.html"
+  },
+  {
+    "name": "RigBMX 2",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/rigbmx2.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/rigbmx2.html"
+  },
+  {
+    "name": "Rio Rex",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/rio rex.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/riorex.html"
+  },
+  {
+    "name": "Road of Fury",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/roadoffury.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/roadoffury.html"
+  },
+  {
+    "name": "Robot Invasion",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/robotinvasion.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/robotinvasion.html"
+  },
+  {
+    "name": "Rocket Soccer Derby",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/rocketsoccerderby.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/rocketsoccerderby.html"
+  },
+  {
+    "name": "Rogue Sergeant The Final Operation",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/roguesergeantthefinaloperation.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/roguesergeantthefinaloperation.html"
+  },
+  {
+    "name": "Rolling Sky",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/rollingsky.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/rollingsky.html"
+  },
+  {
+    "name": "Rolly Vortex",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/rollyvortex.jpg",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/rollyvortex.html"
+  },
+  {
+    "name": "Rooftop Snipers",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/rooftopsnipers.webp",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/rooftopsnipers.html"
+  },
+  {
+    "name": "Rooftop Snipers 2",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/rooftopsnipers2.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/rooftopsnipers2.html"
+  },
+  {
+    "name": "Room Clicker",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/roomclicker.jpg",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/roomclicker.html"
+  },
+  {
+    "name": "Room Sort",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/roomsort.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/roomsort.html"
+  },
+  {
+    "name": "Royal Towers: Medieval TD",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/royaltowermedievaltd.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/royaltowermedievaltd.html"
+  },
+  {
+    "name": "Run",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/run1.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/run1.html"
+  },
+  {
+    "name": "Run 2",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/run2.jpg",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/run2.html"
+  },
+  {
+    "name": "Run 3",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/run3.jpg",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/run3.html"
+  },
+  {
+    "name": "Sandbox City",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/sandboxcity.jpg",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/icedodo.html"
+  },
+  {
+    "name": "Sandboxels",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/sandboxels.webp",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/sandboxels.html"
+  },
+  {
+    "name": "sandspiel",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/sandspiel.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/sandspielgame.html"
+  },
+  {
+    "name": "Sandtris",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/sandtris.jpg",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/sandtrisgame.html"
+  },
+  {
+    "name": "Schoolboy Runaway",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/schoolboyrunaway.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/schoolboyrunaway.html"
+  },
+  {
+    "name": "Scrap Metal 3",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/scrapmetal3.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/scrapmetal3.html"
+  },
+  {
+    "name": "Scratch Inc",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/scratchinc.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/scratchinc.html"
+  },
+  {
+    "name": "Seat Jam 3D",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/seatjam3d.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/seatjam3d.html"
+  },
+  {
+    "name": "Serial Experiments Lain",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/serialexperimentslain.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/serialexperimentslain.html"
+  },
+  {
+    "name": "Shapez.io",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/shapezio.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/shapezio.html"
+  },
+  {
+    "name": "Shark Game",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/sharkgame.jpg",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/sharkgame.html"
+  },
+  {
+    "name": "Shipo.io",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/shipoio.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/shipoio.html"
+  },
+  {
+    "name": "Shooting Master",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/shootingmaster.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/shootingmaster.html"
+  },
+  {
+    "name": "Shovel 3D",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/shovel3d.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/shovel3d.html"
+  },
+  {
+    "name": "Side Effects",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/sideeffects.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/sideeffects.html"
+  },
+  {
+    "name": "Silent Hill",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/silenthill.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/silenthill.html"
+  },
+  {
+    "name": "Sky Riders",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/skyriders.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/skyriders.html"
+  },
+  {
+    "name": "Slender: The Eight Pages",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/slender.webp",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/slender.html"
+  },
+  {
+    "name": "Slice it All",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/sliceitall.jpg",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/sliceitall.html"
+  },
+  {
+    "name": "Slime.io",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/slimeio.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/slimeio.html"
+  },
+  {
+    "name": "Slime Rancher",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/slimerancher.jpg",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/slimerancher.html"
+  },
+  {
+    "name": "Slither.io",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/slitherio.jpg",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/slitherio.html"
+  },
+  {
+    "name": "Slope",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/slope1.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/slope1.html"
+  },
+  {
+    "name": "Slope 2",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/slope2.jpg",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/slope2.html"
+  },
+  {
+    "name": "Slope 3",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/slope3.jpg",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/slope3.html"
+  },
+  {
+    "name": "Slow Roads",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/slowroads.webp",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/slowroads.html"
+  },
+  {
+    "name": "Smash Karts",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/smashkarts.webp",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/smashkarts.html"
+  },
+  {
+    "name": "Snowbattle.io",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/snowbattleio.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/snowbattleio.html"
+  },
+  {
+    "name": "Snowball.io",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/snowball.io.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/snowballio.html"
+  },
+  {
+    "name": "Snow Rider 3D",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/snowrider3d.webp",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/snowrider3d.html"
+  },
+  {
+    "name": "Soccer Random",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/soccerrandom.jpg",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/soccerrandom.html"
+  },
+  {
+    "name": "Solar Smash",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/solarsmash.jpg",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/solarsmash.html"
+  },
+  {
+    "name": "Solitaire",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/solitaire.jpg",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/solitairegame.html"
+  },
+  {
+    "name": "Sonic Advance",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/sonicadvance.jpg",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/sonicadvance.html"
+  },
+  {
+    "name": "Sonic CD",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/soniccd.jpg",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/soniccd.html"
+  },
+  {
+    "name": "Sonic Classic Collection",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/sonicclassiccollection.jpg",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/sonicclassiccollection.html"
+  },
+  {
+    "name": "Sonic Erazor",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/sonicerazor.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/sonicerazor.html"
+  },
+  {
+    "name": "Sonic Mania",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/sonicmania.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/sonicmania.html"
+  },
+  {
+    "name": "Sonic.EXE",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/sonicexe.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/sonicexe.html"
+  },
+  {
+    "name": "Sonic.EXE (Original)",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/sonicexeoriginal.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/sonicexeoriginal.html"
+  },
+  {
+    "name": "Sonic the Hedgehog 2: Community's Cut",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/sonicthehedgehog2communityscut.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/sonicthehedgehog2communityscut.html"
+  },
+  {
+    "name": "Sonic the Hedgehog 3: Angel Island Remastered",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/sonicthehedgehog3angelislandremastered.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/sonicthehedgehog3angelislandremastered.html"
+  },
+  {
+    "name": "Sort the Court",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/sortthecourt.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/sortthecourt.html"
+  },
+  {
+    "name": "Soundboard",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/soundboard.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/soundboardgame.html"
+  },
+  {
+    "name": "Space Funeral",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/spacefuneral.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/spacefuneral.html"
+  },
+  {
+    "name": "Space Invaders",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/spaceinvaders.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/spaceinvaders.html"
+  },
+  {
+    "name": "Space Waves",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/spacewaves.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/spacewaves.html"
+  },
+  {
+    "name": "Spacebar Clicker",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/spacebarclicker.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/spacebarclicker.html"
+  },
+  {
+    "name": "Speed Stars",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/speedstars.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/speedstars.html"
+  },
+  {
+    "name": "Spelunky Classic HD",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/spelunkyclassichd.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/spelunkyclassichd.html"
+  },
+  {
+    "name": "SpiderDoll",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/spiderdoll.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/spiderdollgame.html"
+  },
+  {
+    "name": "Spiral Roll",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/spiralroll.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/spiralroll.html"
+  },
+  {
+    "name": "SpongeBob SquarePants: Krabby Katch",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/spongebobsquarepantskrabbykatch.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/spongebobsquarepantskrabbykatch.html"
+  },
+  {
+    "name": "Sprunki",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/sprunki.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/sprunkigame.html"
+  },
+  {
+    "name": "Stacktris",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/stacktris.jpg",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/stacktrisgame.html"
+  },
+  {
+    "name": "Stacky Dash",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/stackydash.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/stackydash.html"
+  },
+  {
+    "name": "State.io",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/stateio.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/stateio.html"
+  },
+  {
+    "name": "Station 141",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/station141.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/station141.html"
+  },
+  {
+    "name": "Station Saturn",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/stationsaturn.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/stationsaturn.html"
+  },
+  {
+    "name": "Steal a Brainrot",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/stealabrainrot.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/stealabrainrot.html"
+  },
+  {
+    "name": "Steal Brainrot Online",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/stealbrainrotonline.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/stealbrainrotonline.html"
+  },
+  {
+    "name": "Stealth Masters",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/stealthmasters.jpg",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/stealthmasters.html"
+  },
+  {
+    "name": "Stick With It",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/stickwithit.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/stickwithit.html"
+  },
+  {
+    "name": "Stickman and Guns",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/stickmanandguns.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/stickmanandguns.html"
+  },
+  {
+    "name": "Stickman Boost",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/stickmanboost.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/stickmanboost.html"
+  },
+  {
+    "name": "Stickman Climb",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/stickmanclimb.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/stickmanclimb.html"
+  },
+  {
+    "name": "Stickman Destruction",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/stickmandestruction.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/stickmandestruction.html"
+  },
+  {
+    "name": "Stickman Fight Ragdoll",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/stickmanfightragdoll.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/stickmanfightragdoll.html"
+  },
+  {
+    "name": "Stickman Golf",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/stickmangolf.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/stickmangolf.html"
+  },
+  {
+    "name": "Stickman Hook",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/stickmanhook.jpg",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/stickmanhook.html"
+  },
+  {
+    "name": "Stone Grass Mowing Simulator",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/stonegrassmowingsimulator.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/stonegrassmowingsimulator.html"
+  },
+  {
+    "name": "Subway Surfers",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/subwaysurfers.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/subwaysurfers.html"
+  },
+  {
+    "name": "Suika Game",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/suikagame.webp",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/suikagame.html"
+  },
+  {
+    "name": "Super Liquid Soccer",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/superliquidsoccer.webp",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/superliquidsoccer.html"
+  },
+  {
+    "name": "Super Mario 63",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/supermario63.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/supermario63.html"
+  },
+  {
+    "name": "Super Mario 64",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/supermario64.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/supermario64.html"
+  },
+  {
+    "name": "Super Mario Bros",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/supermariobros.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/supermariobros.html"
+  },
+  {
+    "name": "Super Mario Bros 2",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/supermariobros2.jpg",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/supermariobros2.html"
+  },
+  {
+    "name": "Super Mario Bros 3",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/supermariobros3.jpg",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/supermariobros3.html"
+  },
+  {
+    "name": "Super Mario Galaxy DS",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/supermariogalaxyds.jpg",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/supermariogalaxyds.html"
+  },
+  {
+    "name": "Super Monkey Ball 1 & 2",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/supermonkeyball1&2.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/supermonkeyball1&2.html"
+  },
+  {
+    "name": "Super Smash Bros",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/supersmashbros.webp",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/supersmashbros.html"
+  },
+  {
+    "name": "Super Smash Flash",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/supersmashflash.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/supersmashflash.html"
+  },
+  {
+    "name": "Super Star Car",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/superstarcar.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/superstarcar.html"
+  },
+  {
+    "name": "Superhot",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/superhot.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/superhotgame.html"
+  },
+  {
+    "name": "Supermarket 3D",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/supermarket3d.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/supermarket3d.html"
+  },
+  {
+    "name": "Supreme Duelist",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/supremeduelist.webp",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/supremeduelist.html"
+  },
+  {
+    "name": "Survive to Victory",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/survivetovictory.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/survivetovictory.html"
+  },
+  {
+    "name": "Survivor.io",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/Survivor.io.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/survivorio.html"
+  },
+  {
+    "name": "Survival Race",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/survivalrace.jpg",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/survivalrace.html"
+  },
+  {
+    "name": "Sushi Roll",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/sushiroll.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/sushiroll.html"
+  },
+  {
+    "name": "Swordfight!!",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/swordfight.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/swordfight.html"
+  },
+  {
+    "name": "Swords and Souls",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/swordsandsouls.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/swordsandsouls.html"
+  },
+  {
+    "name": "Tag",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/tag.webp",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/taggame.html"
+  },
+  {
+    "name": "Taiko No Tatsujin",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/taikonotatsujin.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/taikonotatsujin.html"
+  },
+  {
+    "name": "Tall Man Run",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/tallmanrun.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/tallmanrun.html"
+  },
+  {
+    "name": "Tanuki Sunset",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/tanukisunset.jpg",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/tanukisunset.html"
+  },
+  {
+    "name": "Tattletail",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/tattletail.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/tattletailgame.html"
+  },
+  {
+    "name": "Teen Titans GO!: Jump Jousts",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/teentitansgojumpjousts.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/teentitansgojumpjousts.html"
+  },
+  {
+    "name": "Teen Titans GO!: Jump Jousts 2",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/teentitansgojumpjousts2.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/teentitansgojumpjousts2.html"
+  },
+  {
+    "name": "Telekinesis",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/telekinesis.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/telekinesisgame.html"
+  },
+  {
+    "name": "Telekinesis Attack",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/telekinesisattack.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/telekinesisattack.html"
+  },
+  {
+    "name": "Telekinesis Car",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/telekinesiscar.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/telekinesiscar.html"
+  },
+  {
+    "name": "Telekinesis Drive",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/telekinesisdrive.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/telekinesisdrive.html"
+  },
+  {
+    "name": "Temple Run 2",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/templerun2.jpg",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/templerun2.html"
+  },
+  {
+    "name": "Terraria",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/terraria.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/terrariagame.html"
+  },
+  {
+    "name": "Territorial.io",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/territorialio.webp",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/territorialio.html"
+  },
+  {
+    "name": "Tetris",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/tetris.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/tetrisgame.html"
+  },
+  {
+    "name": "That's Not My Neighbour",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/thatsnotmyneighbour.jpg",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/thatsnotmyneighbour.html"
+  },
+  {
+    "name": "The Backrooms",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/thebackrooms.webp",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/thebackrooms.html"
+  },
+  {
+    "name": "The Binding of Isaac",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/thebindingofisaacrebirth.webp",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/thebindingofisaac.html"
+  },
+  {
+    "name": "The Binding of Isaac: Rebirth",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/thebindingofisaacrebirth1.webp",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/thebindingofisaacrebirth.html"
+  },
+  {
+    "name": "The Binding of Isaac: Wrath of The Lamb Eternal",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/thebindingofisaacwrathofthelambeternal.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/thebindingofisaacwrathofthelambeternal.html"
+  },
+  {
+    "name": "The Binding of Isaac: Wrath of the Lamb",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/bindingofisaac.jpg",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/bindingofisaac.html"
+  },
+  {
+    "name": "The Deadseat",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/thedeadseat.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/thedeadseat.html"
+  },
+  {
+    "name": "The Elder Scrolls: Arena",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/theelderscrolls1.jpg",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/theelderscrolls1.html"
+  },
+  {
+    "name": "The Elder Scrolls 2: Daggerfall",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/theelderscrolls2.jpg",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/theelderscrolls2.html"
+  },
+  {
+    "name": "The Impossible Quiz",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/theimpossiblequiz.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/theimpossiblequiz.html"
+  },
+  {
+    "name": "The Legend of Zelda",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/thelegendofzelda.jpg",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/thelegendofzelda.html"
+  },
+  {
+    "name": "The Legend of Zelda: Links Awakening",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/thelegendofzeldalinksawakening.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/thelegendofzeldalinksawakening.html"
+  },
+  {
+    "name": "The Legend of Zelda: Majora's Mask",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/thelegendofzeldamajorasmask.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/thelegendofzeldamajorasmask.html"
+  },
+  {
+    "name": "The Legend of Zelda: Ocarina of Time",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/ocarinaoftime.jpg",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/ocarinaoftime.html"
+  },
+  {
+    "name": "The Legend of Zelda: Oracle of Seasons",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/thelegendofzeldaoracleofseasons.jpg",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/thelegendofzeldaoracleofseasons.html"
+  },
+  {
+    "name": "The Legend of Zelda: Phantom Hourglass",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/thelegendofzeldaphantomhourglass.jpg",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/thelegendofzeldaphantomhourglass.html"
+  },
+  {
+    "name": "The Legend of Zelda: Spirit Tracks",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/thelegendofzeldaspirittracks.jpg",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/thelegendofzeldaspirittracks.html"
+  },
+  {
+    "name": "The Legend of Zelda: The Minish Cap",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/thelegendofzeldatheminishcap.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/thelegendofzeldatheminishcap.html"
+  },
+  {
+    "name": "The Man From the Window",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/themanfromthewindow.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/themanfromthewindow.html"
+  },
+  {
+    "name": "The Oregon Trail",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/theoregontrail.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/theoregontrail.html"
+  },
+  {
+    "name": "The World's Hardest Game",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/theworldshardestgame.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/theworldshardestgame.html"
+  },
+  {
+    "name": "The World's Hardest Game 3",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/theworldshardestgame3.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/theworldshardestgame3.html"
+  },
+  {
+    "name": "The World's Hardest Game 4",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/theworldshardestgame4.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/theworldshardestgame4.html"
+  },
+  {
+    "name": "They Are Coming",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/theyarecoming.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/theyarecoming.html"
+  },
+  {
+    "name": "Thing-Thing Arena 3",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/thingthingarena3.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/thingthingarena3.html"
+  },
+  {
+    "name": "This Is The Only Level",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/thisistheonlylevel.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/thisistheonlylevel.html"
+  },
+  {
+    "name": "This Is The Only Level 2",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/thisistheonlylevel2.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/thisistheonlylevel2.html"
+  },
+  {
+    "name": "Three Goblets",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/threegoblets.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/threegoblets.html"
+  },
+  {
+    "name": "TileTopia",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/tiletopia.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/tiletopiagame.html"
+  },
+  {
+    "name": "Time Shooter 1",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/timeshooter1.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/timeshooter1.html"
+  },
+  {
+    "name": "Time Shooter 2",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/timeshooter2.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/timeshooter2.html"
+  },
+  {
+    "name": "Time Shooter 3",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/timeshooter3.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/timeshooter3.html"
+  },
+  {
+    "name": "Tiny Fishing",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/tinyfishing.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/tinyfishing.html"
+  },
+  {
+    "name": "To The Core",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/tothecore.webp",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/tothecore.html"
+  },
+  {
+    "name": "Tom Clancy's Rainbow Six",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/tomclancysrainbowsix.jpg",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/tomclancysrainbowsix.html"
+  },
+  {
+    "name": "Tomb of the Mask",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/tombofthemask.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/tombofthemask.html"
+  },
+  {
+    "name": "Tomodachi Collection",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/tomodachicollection.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/tomodachicollection.html"
+  },
+  {
+    "name": "Tony Hawk's Pro Skater 4",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/tonyhawksproskater4.jpg",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/tonyhawksproskater4.html"
+  },
+  {
+    "name": "Toss The Turtle",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/tosstheturtle.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/tosstheturtle.html"
+  },
+  {
+    "name": "Touhou 1 Reiiden",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/touhou1.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/touhou1.html"
+  },
+  {
+    "name": "Touhou 2 Fuumaroku",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/touhou2.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/touhou2.html"
+  },
+  {
+    "name": "Touhou 3 Yumejikuu",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/touhou3.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/touhou3.html"
+  },
+  {
+    "name": "Touhou 4 Gensokyou",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/touhou4.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/touhou4.html"
+  },
+  {
+    "name": "Touhou 5 Kaikidan",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/touhou5.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/touhou5.html"
+  },
+  {
+    "name": "Touhou Mother",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/touhoumother.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/touhoumother.html"
+  },
+  {
+    "name": "Touhou: Luminous Strike",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/touhouluminousstrike.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/touhouluminousstrike.html"
+  },
+  {
+    "name": "Tower Crash 3D",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/towercrash3d.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/towercrash3d.html"
+  },
+  {
+    "name": "Toy Rider",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/toyrider.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/toyrider.html"
+  },
+  {
+    "name": "Traffic Jam 3D",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/trafficjam3d.jpg",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/trafficjam3d.html"
+  },
+  {
+    "name": "Traffic Rider",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/trafficrider.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/trafficrider.html"
+  },
+  {
+    "name": "Triple Match 3D",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/triplematch3d.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/triplematch3d.html"
+  },
+  {
+    "name": "Trivia Crack",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/triviacrack.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/triviacrack.html"
+  },
+  {
+    "name": "Tube Jumpers",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/tubejumpers.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/tubejumpers.html"
+  },
+  {
+    "name": "Tug of War with Cars",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/tugofwarwithcars.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/tugofwarwithcars.html"
+  },
+  {
+    "name": "Tung Sahur Horror",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/tungsahurhorror.jpg",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/tungsahurhorror.html"
+  },
+  {
+    "name": "Tunnel Rush",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/tunnelrush.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/tunnelrush.html"
+  },
+  {
+    "name": "Turbo Stars",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/turbostars.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/turbostars.html"
+  },
+  {
+    "name": "Twerk Race 3D",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/twerkrace3d.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/twerkrace3d.html"
+  },
+  {
+    "name": "Twin Shot",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/twinshot.jpg",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/twinshot.html"
+  },
+  {
+    "name": "Twisted Rope 3D",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/twistedrope3d.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/twistedrope3d.html"
+  },
+  {
+    "name": "Ultrakill",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/ultrakill.jpg",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/ultrakillgame.html"
+  },
+  {
+    "name": "Ultimate Car Driving Simulator",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/ultimatecardrivingsimulator.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/ultimatecardrivingsimulator.html"
+  },
+  {
+    "name": "Um Jammer Lammy",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/umjammerlammy.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/umjammerlammy.html"
+  },
+  {
+    "name": "UNDERWHEELS",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/underwheels.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/underwheelsgame.html"
+  },
+  {
+    "name": "Undertale",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/undertale.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/undertalegame.html"
+  },
+  {
+    "name": "Undertale Yellow",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/undertaleyellow.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/undertaleyellow.html"
+  },
+  {
+    "name": "Uno",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/uno.jpg",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/unogame.html"
+  },
+  {
+    "name": "Untitled Goose Game",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/untitledgoosegame.webp",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/untitledgoosegame.html"
+  },
+  {
+    "name": "Vapor Trails",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/vaportrails.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/vaportrails.html"
+  },
+  {
+    "name": "Vex 1",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/vex1.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/vex1.html"
+  },
+  {
+    "name": "Vex 2",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/vex2.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/vex2.html"
+  },
+  {
+    "name": "Vex 3",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/vex3.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/vex3.html"
+  },
+  {
+    "name": "Vex 3 XMAS",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/vex3xmas.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/vex3xmas.html"
+  },
+  {
+    "name": "Vex 4",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/vex4.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/vex4.html"
+  },
+  {
+    "name": "Vex 5",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/vex5.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/vex5.html"
+  },
+  {
+    "name": "Vex 6",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/vex6.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/vex6.html"
+  },
+  {
+    "name": "Vex 7",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/vex7.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/vex7.html"
+  },
+  {
+    "name": "Vex 8",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/vex8.jpg",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/vex8.html"
+  },
+  {
+    "name": "Vex Challenges",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/vexchallenges.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/vexchallenges.html"
+  },
+  {
+    "name": "Vex X3M",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/vexx3m.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/vexx3m.html"
+  },
+  {
+    "name": "Vex X3M 2",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/vexx3m2.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/vexx3m2.html"
+  },
+  {
+    "name": "Volley Random",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/volleyrandom.jpg",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/volleyrandom.html"
+  },
+  {
+    "name": "Wall Crawler",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/wallcrawler.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/wallcrawler.html"
+  },
+  {
+    "name": "War Regions",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/warregions.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/warregions.html"
+  },
+  {
+    "name": "War The Knights",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/wartheknights.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/wartheknights.html"
+  },
+  {
+    "name": "Waterworks!",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/waterworks.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/waterworks.html"
+  },
+  {
+    "name": "Wave Dash",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/wavedash.jpg",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/wavedash.html"
+  },
+  {
+    "name": "Weapon Craft Run",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/weaponcraftrun.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/weaponcraftrun.html"
+  },
+  {
+    "name": "Weapon Scale",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/weaponscale.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/weaponscale.html"
+  },
+  {
+    "name": "Weapon Upgrade Rush",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/weaponupgraderush.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/weaponupgraderush.html"
+  },
+  {
+    "name": "WebFishing",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/webfishing.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/webfishinggame.html"
+  },
+  {
+    "name": "Whack The Thief",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/whackthethief.jpg",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/whackthethief.html"
+  },
+  {
+    "name": "Whack Your Boss",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/whackyourboss.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/whackyourboss.html"
+  },
+  {
+    "name": "Wheely",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/wheely.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/wheely1.html"
+  },
+  {
+    "name": "Wheely 2",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/wheely2.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/wheely2.html"
+  },
+  {
+    "name": "Wheely 3",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/wheely3.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/wheely.html"
+  },
+  {
+    "name": "Wheely 4",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/wheely4.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/wheely4.html"
+  },
+  {
+    "name": "Wheely 5",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/wheely5.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/wheely5.html"
+  },
+  {
+    "name": "Wheely 6",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/wheely6.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/wheely6.html"
+  },
+  {
+    "name": "Wheely 7",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/wheely7.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/wheely7.html"
+  },
+  {
+    "name": "Wheely 8",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/wheely8.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/wheely8.html"
+  },
+  {
+    "name": "Witch's Heart",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/witchsheart.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/witchsheart.html"
+  },
+  {
+    "name": "Wolfenstein 3D",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/wolfenstein3d.jpg",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/wolfenstein3d.html"
+  },
+  {
+    "name": "Wordle",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/wordle.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/wordlegame.html"
+  },
+  {
+    "name": "World Box",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/worldbox.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/worldbox.html"
+  },
+  {
+    "name": "Yandere Simulator",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/yanderesimulator.jpg",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/yanderesimulator.html"
+  },
+  {
+    "name": "Your Only Move Is HUSTLE",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/youronlymoveishustle.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/youronlymoveishustle.html"
+  },
+  {
+    "name": "Yume Nikki",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/yumenikki.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/yumenikkigame.html"
+  },
+  {
+    "name": "ZDoom",
+    "img": "https://wanocapy.github.io/ChickenKingsVault/gameimages/zdoom.png",
+    "url": "https://wanocapy.github.io/ChickenKingsVault/gamefiles/zdoomgame.html"
+  }
+]
